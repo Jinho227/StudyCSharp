@@ -1,0 +1,7 @@
+C:\Users\qnsdm\source\repos\IncDecOperator\IncDecOperator\bin\Debug\IncDecOperator.exe.config
+C:\Users\qnsdm\source\repos\IncDecOperator\IncDecOperator\bin\Debug\IncDecOperator.exe
+C:\Users\qnsdm\source\repos\IncDecOperator\IncDecOperator\bin\Debug\IncDecOperator.pdb
+C:\Users\qnsdm\source\repos\IncDecOperator\IncDecOperator\obj\Debug\IncDecOperator.csproj.AssemblyReference.cache
+C:\Users\qnsdm\source\repos\IncDecOperator\IncDecOperator\obj\Debug\IncDecOperator.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\source\repos\IncDecOperator\IncDecOperator\obj\Debug\IncDecOperator.exe
+C:\Users\qnsdm\source\repos\IncDecOperator\IncDecOperator\obj\Debug\IncDecOperator.pdb

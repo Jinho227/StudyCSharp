@@ -1,0 +1,6 @@
+C:\Users\qnsdm\source\repos\IfIf\IfIf\bin\Debug\IfIf.exe.config
+C:\Users\qnsdm\source\repos\IfIf\IfIf\bin\Debug\IfIf.exe
+C:\Users\qnsdm\source\repos\IfIf\IfIf\bin\Debug\IfIf.pdb
+C:\Users\qnsdm\source\repos\IfIf\IfIf\obj\Debug\IfIf.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\source\repos\IfIf\IfIf\obj\Debug\IfIf.exe
+C:\Users\qnsdm\source\repos\IfIf\IfIf\obj\Debug\IfIf.pdb

@@ -1,0 +1,6 @@
+C:\Users\qnsdm\source\repos\UsingOut\UsingOut\bin\Debug\UsingOut.exe.config
+C:\Users\qnsdm\source\repos\UsingOut\UsingOut\bin\Debug\UsingOut.exe
+C:\Users\qnsdm\source\repos\UsingOut\UsingOut\bin\Debug\UsingOut.pdb
+C:\Users\qnsdm\source\repos\UsingOut\UsingOut\obj\Debug\UsingOut.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\source\repos\UsingOut\UsingOut\obj\Debug\UsingOut.exe
+C:\Users\qnsdm\source\repos\UsingOut\UsingOut\obj\Debug\UsingOut.pdb

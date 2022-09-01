@@ -1,0 +1,7 @@
+C:\Users\qnsdm\source\repos\Switch2\Switch2\bin\Debug\Switch2.exe.config
+C:\Users\qnsdm\source\repos\Switch2\Switch2\bin\Debug\Switch2.exe
+C:\Users\qnsdm\source\repos\Switch2\Switch2\bin\Debug\Switch2.pdb
+C:\Users\qnsdm\source\repos\Switch2\Switch2\obj\Debug\Switch2.csproj.AssemblyReference.cache
+C:\Users\qnsdm\source\repos\Switch2\Switch2\obj\Debug\Switch2.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\source\repos\Switch2\Switch2\obj\Debug\Switch2.exe
+C:\Users\qnsdm\source\repos\Switch2\Switch2\obj\Debug\Switch2.pdb

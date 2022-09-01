@@ -1,0 +1,7 @@
+C:\Users\qnsdm\source\repos\StringFormatNumber\StringFormatNumber\bin\Debug\StringFormatNumber.exe.config
+C:\Users\qnsdm\source\repos\StringFormatNumber\StringFormatNumber\bin\Debug\StringFormatNumber.exe
+C:\Users\qnsdm\source\repos\StringFormatNumber\StringFormatNumber\bin\Debug\StringFormatNumber.pdb
+C:\Users\qnsdm\source\repos\StringFormatNumber\StringFormatNumber\obj\Debug\StringFormatNumber.csproj.AssemblyReference.cache
+C:\Users\qnsdm\source\repos\StringFormatNumber\StringFormatNumber\obj\Debug\StringFormatNumber.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\source\repos\StringFormatNumber\StringFormatNumber\obj\Debug\StringFormatNumber.exe
+C:\Users\qnsdm\source\repos\StringFormatNumber\StringFormatNumber\obj\Debug\StringFormatNumber.pdb

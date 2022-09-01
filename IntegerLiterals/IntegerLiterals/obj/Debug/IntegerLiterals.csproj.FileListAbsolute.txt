@@ -1,0 +1,6 @@
+C:\Users\qnsdm\source\repos\IntegerLiterals\IntegerLiterals\bin\Debug\IntegerLiterals.exe.config
+C:\Users\qnsdm\source\repos\IntegerLiterals\IntegerLiterals\bin\Debug\IntegerLiterals.exe
+C:\Users\qnsdm\source\repos\IntegerLiterals\IntegerLiterals\bin\Debug\IntegerLiterals.pdb
+C:\Users\qnsdm\source\repos\IntegerLiterals\IntegerLiterals\obj\Debug\IntegerLiterals.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\source\repos\IntegerLiterals\IntegerLiterals\obj\Debug\IntegerLiterals.exe
+C:\Users\qnsdm\source\repos\IntegerLiterals\IntegerLiterals\obj\Debug\IntegerLiterals.pdb

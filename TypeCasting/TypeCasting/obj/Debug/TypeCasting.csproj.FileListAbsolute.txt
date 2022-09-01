@@ -1,0 +1,6 @@
+C:\Users\qnsdm\source\repos\TypeCasting\TypeCasting\bin\Debug\TypeCasting.exe.config
+C:\Users\qnsdm\source\repos\TypeCasting\TypeCasting\bin\Debug\TypeCasting.exe
+C:\Users\qnsdm\source\repos\TypeCasting\TypeCasting\bin\Debug\TypeCasting.pdb
+C:\Users\qnsdm\source\repos\TypeCasting\TypeCasting\obj\Debug\TypeCasting.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\source\repos\TypeCasting\TypeCasting\obj\Debug\TypeCasting.exe
+C:\Users\qnsdm\source\repos\TypeCasting\TypeCasting\obj\Debug\TypeCasting.pdb

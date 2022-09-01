@@ -1,0 +1,6 @@
+C:\Users\qnsdm\source\repos\FloatingPoint\FloatingPoint\bin\Debug\FloatingPoint.exe.config
+C:\Users\qnsdm\source\repos\FloatingPoint\FloatingPoint\bin\Debug\FloatingPoint.exe
+C:\Users\qnsdm\source\repos\FloatingPoint\FloatingPoint\bin\Debug\FloatingPoint.pdb
+C:\Users\qnsdm\source\repos\FloatingPoint\FloatingPoint\obj\Debug\FloatingPoint.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\source\repos\FloatingPoint\FloatingPoint\obj\Debug\FloatingPoint.exe
+C:\Users\qnsdm\source\repos\FloatingPoint\FloatingPoint\obj\Debug\FloatingPoint.pdb

@@ -1,0 +1,6 @@
+C:\Users\qnsdm\source\repos\UsingQueue\UsingQueue\bin\Debug\UsingQueue.exe.config
+C:\Users\qnsdm\source\repos\UsingQueue\UsingQueue\bin\Debug\UsingQueue.exe
+C:\Users\qnsdm\source\repos\UsingQueue\UsingQueue\bin\Debug\UsingQueue.pdb
+C:\Users\qnsdm\source\repos\UsingQueue\UsingQueue\obj\Debug\UsingQueue.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\source\repos\UsingQueue\UsingQueue\obj\Debug\UsingQueue.exe
+C:\Users\qnsdm\source\repos\UsingQueue\UsingQueue\obj\Debug\UsingQueue.pdb

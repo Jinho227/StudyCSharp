@@ -1,0 +1,6 @@
+C:\Users\qnsdm\source\repos\UsingStack\UsingStack\bin\Debug\UsingStack.exe.config
+C:\Users\qnsdm\source\repos\UsingStack\UsingStack\bin\Debug\UsingStack.exe
+C:\Users\qnsdm\source\repos\UsingStack\UsingStack\bin\Debug\UsingStack.pdb
+C:\Users\qnsdm\source\repos\UsingStack\UsingStack\obj\Debug\UsingStack.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\source\repos\UsingStack\UsingStack\obj\Debug\UsingStack.exe
+C:\Users\qnsdm\source\repos\UsingStack\UsingStack\obj\Debug\UsingStack.pdb

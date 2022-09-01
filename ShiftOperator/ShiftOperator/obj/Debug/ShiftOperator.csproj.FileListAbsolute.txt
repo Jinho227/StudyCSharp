@@ -1,0 +1,7 @@
+C:\Users\qnsdm\source\repos\ShiftOperator\ShiftOperator\bin\Debug\ShiftOperator.exe.config
+C:\Users\qnsdm\source\repos\ShiftOperator\ShiftOperator\bin\Debug\ShiftOperator.exe
+C:\Users\qnsdm\source\repos\ShiftOperator\ShiftOperator\bin\Debug\ShiftOperator.pdb
+C:\Users\qnsdm\source\repos\ShiftOperator\ShiftOperator\obj\Debug\ShiftOperator.csproj.AssemblyReference.cache
+C:\Users\qnsdm\source\repos\ShiftOperator\ShiftOperator\obj\Debug\ShiftOperator.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\source\repos\ShiftOperator\ShiftOperator\obj\Debug\ShiftOperator.exe
+C:\Users\qnsdm\source\repos\ShiftOperator\ShiftOperator\obj\Debug\ShiftOperator.pdb

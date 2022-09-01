@@ -1,0 +1,7 @@
+C:\Users\qnsdm\source\repos\SignedUnsignedConversion\SignedUnsignedConversion\bin\Debug\SignedUnsignedConversion.exe.config
+C:\Users\qnsdm\source\repos\SignedUnsignedConversion\SignedUnsignedConversion\bin\Debug\SignedUnsignedConversion.exe
+C:\Users\qnsdm\source\repos\SignedUnsignedConversion\SignedUnsignedConversion\bin\Debug\SignedUnsignedConversion.pdb
+C:\Users\qnsdm\source\repos\SignedUnsignedConversion\SignedUnsignedConversion\obj\Debug\SignedUnsignedConversion.csproj.AssemblyReference.cache
+C:\Users\qnsdm\source\repos\SignedUnsignedConversion\SignedUnsignedConversion\obj\Debug\SignedUnsignedConversion.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\source\repos\SignedUnsignedConversion\SignedUnsignedConversion\obj\Debug\SignedUnsignedConversion.exe
+C:\Users\qnsdm\source\repos\SignedUnsignedConversion\SignedUnsignedConversion\obj\Debug\SignedUnsignedConversion.pdb

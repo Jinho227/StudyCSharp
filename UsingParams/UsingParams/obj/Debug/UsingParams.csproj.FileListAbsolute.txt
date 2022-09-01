@@ -1,0 +1,6 @@
+C:\Users\qnsdm\source\repos\UsingParams\UsingParams\bin\Debug\UsingParams.exe.config
+C:\Users\qnsdm\source\repos\UsingParams\UsingParams\bin\Debug\UsingParams.exe
+C:\Users\qnsdm\source\repos\UsingParams\UsingParams\bin\Debug\UsingParams.pdb
+C:\Users\qnsdm\source\repos\UsingParams\UsingParams\obj\Debug\UsingParams.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\source\repos\UsingParams\UsingParams\obj\Debug\UsingParams.exe
+C:\Users\qnsdm\source\repos\UsingParams\UsingParams\obj\Debug\UsingParams.pdb

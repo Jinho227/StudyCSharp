@@ -1,0 +1,6 @@
+C:\Users\qnsdm\source\repos\String\String\bin\Debug\String.exe.config
+C:\Users\qnsdm\source\repos\String\String\bin\Debug\String.exe
+C:\Users\qnsdm\source\repos\String\String\bin\Debug\String.pdb
+C:\Users\qnsdm\source\repos\String\String\obj\Debug\String.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\source\repos\String\String\obj\Debug\String.exe
+C:\Users\qnsdm\source\repos\String\String\obj\Debug\String.pdb

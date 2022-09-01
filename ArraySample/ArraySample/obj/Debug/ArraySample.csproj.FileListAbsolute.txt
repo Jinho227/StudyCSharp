@@ -1,0 +1,7 @@
+C:\Users\qnsdm\source\repos\ArraySample\ArraySample\bin\Debug\ArraySample.exe.config
+C:\Users\qnsdm\source\repos\ArraySample\ArraySample\bin\Debug\ArraySample.exe
+C:\Users\qnsdm\source\repos\ArraySample\ArraySample\bin\Debug\ArraySample.pdb
+C:\Users\qnsdm\source\repos\ArraySample\ArraySample\obj\Debug\ArraySample.csproj.AssemblyReference.cache
+C:\Users\qnsdm\source\repos\ArraySample\ArraySample\obj\Debug\ArraySample.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\source\repos\ArraySample\ArraySample\obj\Debug\ArraySample.exe
+C:\Users\qnsdm\source\repos\ArraySample\ArraySample\obj\Debug\ArraySample.pdb

@@ -1,0 +1,6 @@
+C:\Users\qnsdm\source\repos\PropertiesInAbstractClass\PropertiesInAbstractClass\bin\Debug\PropertiesInAbstractClass.exe.config
+C:\Users\qnsdm\source\repos\PropertiesInAbstractClass\PropertiesInAbstractClass\bin\Debug\PropertiesInAbstractClass.exe
+C:\Users\qnsdm\source\repos\PropertiesInAbstractClass\PropertiesInAbstractClass\bin\Debug\PropertiesInAbstractClass.pdb
+C:\Users\qnsdm\source\repos\PropertiesInAbstractClass\PropertiesInAbstractClass\obj\Debug\PropertiesInAbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\source\repos\PropertiesInAbstractClass\PropertiesInAbstractClass\obj\Debug\PropertiesInAbstractClass.exe
+C:\Users\qnsdm\source\repos\PropertiesInAbstractClass\PropertiesInAbstractClass\obj\Debug\PropertiesInAbstractClass.pdb

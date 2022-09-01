@@ -1,0 +1,6 @@
+C:\Users\qnsdm\source\repos\Char\Char\bin\Debug\Char.exe.config
+C:\Users\qnsdm\source\repos\Char\Char\bin\Debug\Char.exe
+C:\Users\qnsdm\source\repos\Char\Char\bin\Debug\Char.pdb
+C:\Users\qnsdm\source\repos\Char\Char\obj\Debug\Char.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\source\repos\Char\Char\obj\Debug\Char.exe
+C:\Users\qnsdm\source\repos\Char\Char\obj\Debug\Char.pdb

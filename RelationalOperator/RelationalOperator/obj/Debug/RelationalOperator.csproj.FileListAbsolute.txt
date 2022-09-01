@@ -1,0 +1,6 @@
+C:\Users\qnsdm\source\repos\RelationalOperator\RelationalOperator\bin\Debug\RelationalOperator.exe.config
+C:\Users\qnsdm\source\repos\RelationalOperator\RelationalOperator\bin\Debug\RelationalOperator.exe
+C:\Users\qnsdm\source\repos\RelationalOperator\RelationalOperator\bin\Debug\RelationalOperator.pdb
+C:\Users\qnsdm\source\repos\RelationalOperator\RelationalOperator\obj\Debug\RelationalOperator.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\source\repos\RelationalOperator\RelationalOperator\obj\Debug\RelationalOperator.exe
+C:\Users\qnsdm\source\repos\RelationalOperator\RelationalOperator\obj\Debug\RelationalOperator.pdb

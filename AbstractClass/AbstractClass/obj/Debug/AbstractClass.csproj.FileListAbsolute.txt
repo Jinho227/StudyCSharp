@@ -1,0 +1,6 @@
+C:\Users\qnsdm\source\repos\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe.config
+C:\Users\qnsdm\source\repos\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe
+C:\Users\qnsdm\source\repos\AbstractClass\AbstractClass\bin\Debug\AbstractClass.pdb
+C:\Users\qnsdm\source\repos\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\source\repos\AbstractClass\AbstractClass\obj\Debug\AbstractClass.exe
+C:\Users\qnsdm\source\repos\AbstractClass\AbstractClass\obj\Debug\AbstractClass.pdb

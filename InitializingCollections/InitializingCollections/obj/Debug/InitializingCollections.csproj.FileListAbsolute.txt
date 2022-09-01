@@ -1,0 +1,6 @@
+C:\Users\qnsdm\source\repos\InitializingCollections\InitializingCollections\bin\Debug\InitializingCollections.exe.config
+C:\Users\qnsdm\source\repos\InitializingCollections\InitializingCollections\bin\Debug\InitializingCollections.exe
+C:\Users\qnsdm\source\repos\InitializingCollections\InitializingCollections\bin\Debug\InitializingCollections.pdb
+C:\Users\qnsdm\source\repos\InitializingCollections\InitializingCollections\obj\Debug\InitializingCollections.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\source\repos\InitializingCollections\InitializingCollections\obj\Debug\InitializingCollections.exe
+C:\Users\qnsdm\source\repos\InitializingCollections\InitializingCollections\obj\Debug\InitializingCollections.pdb

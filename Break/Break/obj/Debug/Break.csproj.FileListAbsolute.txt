@@ -1,0 +1,6 @@
+C:\Users\qnsdm\source\repos\Break\Break\bin\Debug\Break.exe.config
+C:\Users\qnsdm\source\repos\Break\Break\bin\Debug\Break.exe
+C:\Users\qnsdm\source\repos\Break\Break\bin\Debug\Break.pdb
+C:\Users\qnsdm\source\repos\Break\Break\obj\Debug\Break.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\source\repos\Break\Break\obj\Debug\Break.exe
+C:\Users\qnsdm\source\repos\Break\Break\obj\Debug\Break.pdb

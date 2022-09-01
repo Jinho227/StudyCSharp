@@ -1,0 +1,6 @@
+C:\Users\qnsdm\source\repos\SwapByValue\SwapByValue\bin\Debug\SwapByValue.exe.config
+C:\Users\qnsdm\source\repos\SwapByValue\SwapByValue\bin\Debug\SwapByValue.exe
+C:\Users\qnsdm\source\repos\SwapByValue\SwapByValue\bin\Debug\SwapByValue.pdb
+C:\Users\qnsdm\source\repos\SwapByValue\SwapByValue\obj\Debug\SwapByValue.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\source\repos\SwapByValue\SwapByValue\obj\Debug\SwapByValue.exe
+C:\Users\qnsdm\source\repos\SwapByValue\SwapByValue\obj\Debug\SwapByValue.pdb

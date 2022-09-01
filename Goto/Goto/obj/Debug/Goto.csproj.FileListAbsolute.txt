@@ -1,0 +1,6 @@
+C:\Users\qnsdm\source\repos\Goto\Goto\bin\Debug\Goto.exe.config
+C:\Users\qnsdm\source\repos\Goto\Goto\bin\Debug\Goto.exe
+C:\Users\qnsdm\source\repos\Goto\Goto\bin\Debug\Goto.pdb
+C:\Users\qnsdm\source\repos\Goto\Goto\obj\Debug\Goto.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\source\repos\Goto\Goto\obj\Debug\Goto.exe
+C:\Users\qnsdm\source\repos\Goto\Goto\obj\Debug\Goto.pdb

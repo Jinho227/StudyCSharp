@@ -1,0 +1,6 @@
+C:\Users\qnsdm\source\repos\Indexer\Indexer\bin\Debug\Indexer.exe.config
+C:\Users\qnsdm\source\repos\Indexer\Indexer\bin\Debug\Indexer.exe
+C:\Users\qnsdm\source\repos\Indexer\Indexer\bin\Debug\Indexer.pdb
+C:\Users\qnsdm\source\repos\Indexer\Indexer\obj\Debug\Indexer.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\source\repos\Indexer\Indexer\obj\Debug\Indexer.exe
+C:\Users\qnsdm\source\repos\Indexer\Indexer\obj\Debug\Indexer.pdb

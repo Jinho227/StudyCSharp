@@ -1,0 +1,6 @@
+C:\Users\qnsdm\source\repos\LocalFunction\LocalFunction\bin\Debug\LocalFunction.exe.config
+C:\Users\qnsdm\source\repos\LocalFunction\LocalFunction\bin\Debug\LocalFunction.exe
+C:\Users\qnsdm\source\repos\LocalFunction\LocalFunction\bin\Debug\LocalFunction.pdb
+C:\Users\qnsdm\source\repos\LocalFunction\LocalFunction\obj\Debug\LocalFunction.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\source\repos\LocalFunction\LocalFunction\obj\Debug\LocalFunction.exe
+C:\Users\qnsdm\source\repos\LocalFunction\LocalFunction\obj\Debug\LocalFunction.pdb

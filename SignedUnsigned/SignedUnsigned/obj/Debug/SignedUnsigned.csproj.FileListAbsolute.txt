@@ -1,0 +1,6 @@
+C:\Users\qnsdm\source\repos\SignedUnsigned\SignedUnsigned\bin\Debug\SignedUnsigned.exe.config
+C:\Users\qnsdm\source\repos\SignedUnsigned\SignedUnsigned\bin\Debug\SignedUnsigned.exe
+C:\Users\qnsdm\source\repos\SignedUnsigned\SignedUnsigned\bin\Debug\SignedUnsigned.pdb
+C:\Users\qnsdm\source\repos\SignedUnsigned\SignedUnsigned\obj\Debug\SignedUnsigned.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\source\repos\SignedUnsigned\SignedUnsigned\obj\Debug\SignedUnsigned.exe
+C:\Users\qnsdm\source\repos\SignedUnsigned\SignedUnsigned\obj\Debug\SignedUnsigned.pdb

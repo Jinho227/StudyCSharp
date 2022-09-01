@@ -1,0 +1,7 @@
+C:\Users\qnsdm\source\repos\NestedClass\NestedClass\obj\Debug\NestedClass.csproj.AssemblyReference.cache
+C:\Users\qnsdm\source\repos\NestedClass\NestedClass\obj\Debug\NestedClass.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\source\repos\NestedClass\NestedClass\bin\Debug\NestedClass.exe.config
+C:\Users\qnsdm\source\repos\NestedClass\NestedClass\bin\Debug\NestedClass.exe
+C:\Users\qnsdm\source\repos\NestedClass\NestedClass\bin\Debug\NestedClass.pdb
+C:\Users\qnsdm\source\repos\NestedClass\NestedClass\obj\Debug\NestedClass.exe
+C:\Users\qnsdm\source\repos\NestedClass\NestedClass\obj\Debug\NestedClass.pdb
