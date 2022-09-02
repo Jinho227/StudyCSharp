@@ -1,0 +1,7 @@
+C:\Users\qnsdm\source\repos\CopyingArray\CopyingArray\bin\Debug\CopyingArray.exe.config
+C:\Users\qnsdm\source\repos\CopyingArray\CopyingArray\bin\Debug\CopyingArray.exe
+C:\Users\qnsdm\source\repos\CopyingArray\CopyingArray\bin\Debug\CopyingArray.pdb
+C:\Users\qnsdm\source\repos\CopyingArray\CopyingArray\obj\Debug\CopyingArray.csproj.AssemblyReference.cache
+C:\Users\qnsdm\source\repos\CopyingArray\CopyingArray\obj\Debug\CopyingArray.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\source\repos\CopyingArray\CopyingArray\obj\Debug\CopyingArray.exe
+C:\Users\qnsdm\source\repos\CopyingArray\CopyingArray\obj\Debug\CopyingArray.pdb

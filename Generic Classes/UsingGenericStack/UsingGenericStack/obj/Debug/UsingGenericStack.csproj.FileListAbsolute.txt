@@ -1,0 +1,6 @@
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Generic Classes\UsingGenericStack\UsingGenericStack\bin\Debug\UsingGenericStack.exe.config
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Generic Classes\UsingGenericStack\UsingGenericStack\bin\Debug\UsingGenericStack.exe
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Generic Classes\UsingGenericStack\UsingGenericStack\bin\Debug\UsingGenericStack.pdb
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Generic Classes\UsingGenericStack\UsingGenericStack\obj\Debug\UsingGenericStack.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Generic Classes\UsingGenericStack\UsingGenericStack\obj\Debug\UsingGenericStack.exe
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Generic Classes\UsingGenericStack\UsingGenericStack\obj\Debug\UsingGenericStack.pdb

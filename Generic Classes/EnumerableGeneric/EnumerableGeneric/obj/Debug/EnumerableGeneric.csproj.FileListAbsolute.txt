@@ -1,0 +1,7 @@
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Generic Classes\EnumerableGeneric\EnumerableGeneric\obj\Debug\EnumerableGeneric.csproj.AssemblyReference.cache
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Generic Classes\EnumerableGeneric\EnumerableGeneric\obj\Debug\EnumerableGeneric.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Generic Classes\EnumerableGeneric\EnumerableGeneric\bin\Debug\EnumerableGeneric.exe.config
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Generic Classes\EnumerableGeneric\EnumerableGeneric\bin\Debug\EnumerableGeneric.exe
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Generic Classes\EnumerableGeneric\EnumerableGeneric\bin\Debug\EnumerableGeneric.pdb
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Generic Classes\EnumerableGeneric\EnumerableGeneric\obj\Debug\EnumerableGeneric.exe
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Generic Classes\EnumerableGeneric\EnumerableGeneric\obj\Debug\EnumerableGeneric.pdb

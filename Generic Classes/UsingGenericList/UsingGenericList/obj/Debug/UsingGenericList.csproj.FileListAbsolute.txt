@@ -1,0 +1,6 @@
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Generic Classes\UsingGenericList\UsingGenericList\bin\Debug\UsingGenericList.exe.config
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Generic Classes\UsingGenericList\UsingGenericList\bin\Debug\UsingGenericList.exe
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Generic Classes\UsingGenericList\UsingGenericList\bin\Debug\UsingGenericList.pdb
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Generic Classes\UsingGenericList\UsingGenericList\obj\Debug\UsingGenericList.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Generic Classes\UsingGenericList\UsingGenericList\obj\Debug\UsingGenericList.exe
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Generic Classes\UsingGenericList\UsingGenericList\obj\Debug\UsingGenericList.pdb

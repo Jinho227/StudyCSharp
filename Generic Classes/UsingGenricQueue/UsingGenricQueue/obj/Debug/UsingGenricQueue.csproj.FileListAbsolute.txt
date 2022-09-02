@@ -1,0 +1,6 @@
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Generic Classes\UsingGenricQueue\UsingGenricQueue\bin\Debug\UsingGenricQueue.exe.config
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Generic Classes\UsingGenricQueue\UsingGenricQueue\bin\Debug\UsingGenricQueue.exe
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Generic Classes\UsingGenricQueue\UsingGenricQueue\bin\Debug\UsingGenricQueue.pdb
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Generic Classes\UsingGenricQueue\UsingGenricQueue\obj\Debug\UsingGenricQueue.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Generic Classes\UsingGenricQueue\UsingGenricQueue\obj\Debug\UsingGenricQueue.exe
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Generic Classes\UsingGenricQueue\UsingGenricQueue\obj\Debug\UsingGenricQueue.pdb

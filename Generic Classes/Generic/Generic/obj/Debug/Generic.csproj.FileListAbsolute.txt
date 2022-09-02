@@ -1,0 +1,6 @@
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Generic Classes\Generic\Generic\bin\Debug\Generic.exe.config
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Generic Classes\Generic\Generic\bin\Debug\Generic.exe
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Generic Classes\Generic\Generic\bin\Debug\Generic.pdb
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Generic Classes\Generic\Generic\obj\Debug\Generic.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Generic Classes\Generic\Generic\obj\Debug\Generic.exe
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Generic Classes\Generic\Generic\obj\Debug\Generic.pdb

@@ -1,0 +1,6 @@
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Generic Classes\UsingDictionary\UsingDictionary\bin\Debug\UsingDictionary.exe.config
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Generic Classes\UsingDictionary\UsingDictionary\bin\Debug\UsingDictionary.exe
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Generic Classes\UsingDictionary\UsingDictionary\bin\Debug\UsingDictionary.pdb
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Generic Classes\UsingDictionary\UsingDictionary\obj\Debug\UsingDictionary.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Generic Classes\UsingDictionary\UsingDictionary\obj\Debug\UsingDictionary.exe
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Generic Classes\UsingDictionary\UsingDictionary\obj\Debug\UsingDictionary.pdb
