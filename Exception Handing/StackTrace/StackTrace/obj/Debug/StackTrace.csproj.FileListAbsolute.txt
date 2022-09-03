@@ -1,0 +1,6 @@
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Exception Handing\StackTrace\StackTrace\bin\Debug\StackTrace.exe.config
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Exception Handing\StackTrace\StackTrace\bin\Debug\StackTrace.exe
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Exception Handing\StackTrace\StackTrace\bin\Debug\StackTrace.pdb
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Exception Handing\StackTrace\StackTrace\obj\Debug\StackTrace.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Exception Handing\StackTrace\StackTrace\obj\Debug\StackTrace.exe
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Exception Handing\StackTrace\StackTrace\obj\Debug\StackTrace.pdb

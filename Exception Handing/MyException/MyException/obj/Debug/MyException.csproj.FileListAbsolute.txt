@@ -1,0 +1,7 @@
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Exception Handing\MyException\MyException\bin\Debug\MyException.exe.config
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Exception Handing\MyException\MyException\bin\Debug\MyException.exe
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Exception Handing\MyException\MyException\bin\Debug\MyException.pdb
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Exception Handing\MyException\MyException\obj\Debug\MyException.csproj.AssemblyReference.cache
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Exception Handing\MyException\MyException\obj\Debug\MyException.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Exception Handing\MyException\MyException\obj\Debug\MyException.exe
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Exception Handing\MyException\MyException\obj\Debug\MyException.pdb

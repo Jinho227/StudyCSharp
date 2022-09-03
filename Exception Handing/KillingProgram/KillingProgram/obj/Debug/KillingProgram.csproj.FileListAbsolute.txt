@@ -1,0 +1,7 @@
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Generic Classes\KillingProgram\KillingProgram\bin\Debug\KillingProgram.exe.config
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Generic Classes\KillingProgram\KillingProgram\bin\Debug\KillingProgram.exe
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Generic Classes\KillingProgram\KillingProgram\bin\Debug\KillingProgram.pdb
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Generic Classes\KillingProgram\KillingProgram\obj\Debug\KillingProgram.csproj.AssemblyReference.cache
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Generic Classes\KillingProgram\KillingProgram\obj\Debug\KillingProgram.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Generic Classes\KillingProgram\KillingProgram\obj\Debug\KillingProgram.exe
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Generic Classes\KillingProgram\KillingProgram\obj\Debug\KillingProgram.pdb

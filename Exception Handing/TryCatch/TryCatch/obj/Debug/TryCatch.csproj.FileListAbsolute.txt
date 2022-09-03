@@ -1,0 +1,7 @@
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Exception Handing\TryCatch\TryCatch\bin\Debug\TryCatch.exe.config
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Exception Handing\TryCatch\TryCatch\bin\Debug\TryCatch.exe
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Exception Handing\TryCatch\TryCatch\bin\Debug\TryCatch.pdb
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Exception Handing\TryCatch\TryCatch\obj\Debug\TryCatch.csproj.AssemblyReference.cache
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Exception Handing\TryCatch\TryCatch\obj\Debug\TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Exception Handing\TryCatch\TryCatch\obj\Debug\TryCatch.exe
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Exception Handing\TryCatch\TryCatch\obj\Debug\TryCatch.pdb

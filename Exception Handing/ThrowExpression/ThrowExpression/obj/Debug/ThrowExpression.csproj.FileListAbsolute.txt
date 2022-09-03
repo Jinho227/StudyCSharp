@@ -1,0 +1,6 @@
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Exception Handing\ThrowExpression\ThrowExpression\bin\Debug\ThrowExpression.exe.config
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Exception Handing\ThrowExpression\ThrowExpression\bin\Debug\ThrowExpression.exe
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Exception Handing\ThrowExpression\ThrowExpression\bin\Debug\ThrowExpression.pdb
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Exception Handing\ThrowExpression\ThrowExpression\obj\Debug\ThrowExpression.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Exception Handing\ThrowExpression\ThrowExpression\obj\Debug\ThrowExpression.exe
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Exception Handing\ThrowExpression\ThrowExpression\obj\Debug\ThrowExpression.pdb
