@@ -1,6 +1,0 @@
-C:\Users\qnsdm\source\repos\IntegralConversion\IntegralConversion\bin\Debug\IntegralConversion.exe.config
-C:\Users\qnsdm\source\repos\IntegralConversion\IntegralConversion\bin\Debug\IntegralConversion.exe
-C:\Users\qnsdm\source\repos\IntegralConversion\IntegralConversion\bin\Debug\IntegralConversion.pdb
-C:\Users\qnsdm\source\repos\IntegralConversion\IntegralConversion\obj\Debug\IntegralConversion.csproj.CoreCompileInputs.cache
-C:\Users\qnsdm\source\repos\IntegralConversion\IntegralConversion\obj\Debug\IntegralConversion.exe
-C:\Users\qnsdm\source\repos\IntegralConversion\IntegralConversion\obj\Debug\IntegralConversion.pdb

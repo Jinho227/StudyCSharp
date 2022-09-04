@@ -1,6 +1,0 @@
-C:\Users\qnsdm\source\repos\IfElse\IfElse\bin\Debug\IfElse.exe.config
-C:\Users\qnsdm\source\repos\IfElse\IfElse\bin\Debug\IfElse.exe
-C:\Users\qnsdm\source\repos\IfElse\IfElse\bin\Debug\IfElse.pdb
-C:\Users\qnsdm\source\repos\IfElse\IfElse\obj\Debug\IfElse.csproj.CoreCompileInputs.cache
-C:\Users\qnsdm\source\repos\IfElse\IfElse\obj\Debug\IfElse.exe
-C:\Users\qnsdm\source\repos\IfElse\IfElse\obj\Debug\IfElse.pdb

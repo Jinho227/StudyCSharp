@@ -1,7 +1,0 @@
-C:\Users\qnsdm\source\repos\Switch\Switch\bin\Debug\Switch.exe.config
-C:\Users\qnsdm\source\repos\Switch\Switch\bin\Debug\Switch.exe
-C:\Users\qnsdm\source\repos\Switch\Switch\bin\Debug\Switch.pdb
-C:\Users\qnsdm\source\repos\Switch\Switch\obj\Debug\Switch.csproj.AssemblyReference.cache
-C:\Users\qnsdm\source\repos\Switch\Switch\obj\Debug\Switch.csproj.CoreCompileInputs.cache
-C:\Users\qnsdm\source\repos\Switch\Switch\obj\Debug\Switch.exe
-C:\Users\qnsdm\source\repos\Switch\Switch\obj\Debug\Switch.pdb

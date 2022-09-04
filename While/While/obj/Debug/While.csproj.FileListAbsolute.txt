@@ -1,6 +1,0 @@
-C:\Users\qnsdm\source\repos\While\While\bin\Debug\While.exe.config
-C:\Users\qnsdm\source\repos\While\While\bin\Debug\While.exe
-C:\Users\qnsdm\source\repos\While\While\bin\Debug\While.pdb
-C:\Users\qnsdm\source\repos\While\While\obj\Debug\While.csproj.CoreCompileInputs.cache
-C:\Users\qnsdm\source\repos\While\While\obj\Debug\While.exe
-C:\Users\qnsdm\source\repos\While\While\obj\Debug\While.pdb

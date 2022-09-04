@@ -1,7 +1,0 @@
-C:\Users\qnsdm\source\repos\StringFormatBasic\StringFormatBasic\bin\Debug\StringFormatBasic.exe.config
-C:\Users\qnsdm\source\repos\StringFormatBasic\StringFormatBasic\bin\Debug\StringFormatBasic.exe
-C:\Users\qnsdm\source\repos\StringFormatBasic\StringFormatBasic\bin\Debug\StringFormatBasic.pdb
-C:\Users\qnsdm\source\repos\StringFormatBasic\StringFormatBasic\obj\Debug\StringFormatBasic.csproj.AssemblyReference.cache
-C:\Users\qnsdm\source\repos\StringFormatBasic\StringFormatBasic\obj\Debug\StringFormatBasic.csproj.CoreCompileInputs.cache
-C:\Users\qnsdm\source\repos\StringFormatBasic\StringFormatBasic\obj\Debug\StringFormatBasic.exe
-C:\Users\qnsdm\source\repos\StringFormatBasic\StringFormatBasic\obj\Debug\StringFormatBasic.pdb

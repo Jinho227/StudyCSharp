@@ -1,6 +1,0 @@
-C:\Users\qnsdm\source\repos\JaggedArray\JaggedArray\bin\Debug\JaggedArray.exe.config
-C:\Users\qnsdm\source\repos\JaggedArray\JaggedArray\bin\Debug\JaggedArray.exe
-C:\Users\qnsdm\source\repos\JaggedArray\JaggedArray\bin\Debug\JaggedArray.pdb
-C:\Users\qnsdm\source\repos\JaggedArray\JaggedArray\obj\Debug\JaggedArray.csproj.CoreCompileInputs.cache
-C:\Users\qnsdm\source\repos\JaggedArray\JaggedArray\obj\Debug\JaggedArray.exe
-C:\Users\qnsdm\source\repos\JaggedArray\JaggedArray\obj\Debug\JaggedArray.pdb

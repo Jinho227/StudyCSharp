@@ -1,7 +1,0 @@
-C:\Users\qnsdm\source\repos\AutoImplementedProperty\AutoImplementedProperty\bin\Debug\AutoImplementedProperty.exe.config
-C:\Users\qnsdm\source\repos\AutoImplementedProperty\AutoImplementedProperty\bin\Debug\AutoImplementedProperty.exe
-C:\Users\qnsdm\source\repos\AutoImplementedProperty\AutoImplementedProperty\bin\Debug\AutoImplementedProperty.pdb
-C:\Users\qnsdm\source\repos\AutoImplementedProperty\AutoImplementedProperty\obj\Debug\AutoImplementedProperty.csproj.AssemblyReference.cache
-C:\Users\qnsdm\source\repos\AutoImplementedProperty\AutoImplementedProperty\obj\Debug\AutoImplementedProperty.csproj.CoreCompileInputs.cache
-C:\Users\qnsdm\source\repos\AutoImplementedProperty\AutoImplementedProperty\obj\Debug\AutoImplementedProperty.exe
-C:\Users\qnsdm\source\repos\AutoImplementedProperty\AutoImplementedProperty\obj\Debug\AutoImplementedProperty.pdb

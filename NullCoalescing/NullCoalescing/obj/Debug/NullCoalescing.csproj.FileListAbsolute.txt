@@ -1,6 +1,0 @@
-C:\Users\qnsdm\source\repos\NullCoalescing\NullCoalescing\bin\Debug\NullCoalescing.exe.config
-C:\Users\qnsdm\source\repos\NullCoalescing\NullCoalescing\bin\Debug\NullCoalescing.exe
-C:\Users\qnsdm\source\repos\NullCoalescing\NullCoalescing\bin\Debug\NullCoalescing.pdb
-C:\Users\qnsdm\source\repos\NullCoalescing\NullCoalescing\obj\Debug\NullCoalescing.csproj.CoreCompileInputs.cache
-C:\Users\qnsdm\source\repos\NullCoalescing\NullCoalescing\obj\Debug\NullCoalescing.exe
-C:\Users\qnsdm\source\repos\NullCoalescing\NullCoalescing\obj\Debug\NullCoalescing.pdb

@@ -1,7 +1,0 @@
-C:\Users\qnsdm\source\repos\StringModify\StringModify\bin\Debug\StringModify.exe.config
-C:\Users\qnsdm\source\repos\StringModify\StringModify\bin\Debug\StringModify.exe
-C:\Users\qnsdm\source\repos\StringModify\StringModify\bin\Debug\StringModify.pdb
-C:\Users\qnsdm\source\repos\StringModify\StringModify\obj\Debug\StringModify.csproj.AssemblyReference.cache
-C:\Users\qnsdm\source\repos\StringModify\StringModify\obj\Debug\StringModify.csproj.CoreCompileInputs.cache
-C:\Users\qnsdm\source\repos\StringModify\StringModify\obj\Debug\StringModify.exe
-C:\Users\qnsdm\source\repos\StringModify\StringModify\obj\Debug\StringModify.pdb

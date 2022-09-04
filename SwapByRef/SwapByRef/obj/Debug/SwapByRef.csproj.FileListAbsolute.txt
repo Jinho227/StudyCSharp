@@ -1,6 +1,0 @@
-C:\Users\qnsdm\source\repos\SwapByRef\SwapByRef\bin\Debug\SwapByRef.exe.config
-C:\Users\qnsdm\source\repos\SwapByRef\SwapByRef\bin\Debug\SwapByRef.exe
-C:\Users\qnsdm\source\repos\SwapByRef\SwapByRef\bin\Debug\SwapByRef.pdb
-C:\Users\qnsdm\source\repos\SwapByRef\SwapByRef\obj\Debug\SwapByRef.csproj.CoreCompileInputs.cache
-C:\Users\qnsdm\source\repos\SwapByRef\SwapByRef\obj\Debug\SwapByRef.exe
-C:\Users\qnsdm\source\repos\SwapByRef\SwapByRef\obj\Debug\SwapByRef.pdb

@@ -1,6 +1,0 @@
-C:\Users\qnsdm\source\repos\StringConcatenate\StringConcatenate\bin\Debug\StringConcatenate.exe.config
-C:\Users\qnsdm\source\repos\StringConcatenate\StringConcatenate\bin\Debug\StringConcatenate.exe
-C:\Users\qnsdm\source\repos\StringConcatenate\StringConcatenate\bin\Debug\StringConcatenate.pdb
-C:\Users\qnsdm\source\repos\StringConcatenate\StringConcatenate\obj\Debug\StringConcatenate.csproj.CoreCompileInputs.cache
-C:\Users\qnsdm\source\repos\StringConcatenate\StringConcatenate\obj\Debug\StringConcatenate.exe
-C:\Users\qnsdm\source\repos\StringConcatenate\StringConcatenate\obj\Debug\StringConcatenate.pdb

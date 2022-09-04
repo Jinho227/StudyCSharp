@@ -1,7 +1,0 @@
-C:\Users\qnsdm\source\repos\AssignmentOperator\AssignmentOperator\bin\Debug\AssignmentOperator.exe.config
-C:\Users\qnsdm\source\repos\AssignmentOperator\AssignmentOperator\bin\Debug\AssignmentOperator.exe
-C:\Users\qnsdm\source\repos\AssignmentOperator\AssignmentOperator\bin\Debug\AssignmentOperator.pdb
-C:\Users\qnsdm\source\repos\AssignmentOperator\AssignmentOperator\obj\Debug\AssignmentOperator.csproj.AssemblyReference.cache
-C:\Users\qnsdm\source\repos\AssignmentOperator\AssignmentOperator\obj\Debug\AssignmentOperator.csproj.CoreCompileInputs.cache
-C:\Users\qnsdm\source\repos\AssignmentOperator\AssignmentOperator\obj\Debug\AssignmentOperator.exe
-C:\Users\qnsdm\source\repos\AssignmentOperator\AssignmentOperator\obj\Debug\AssignmentOperator.pdb

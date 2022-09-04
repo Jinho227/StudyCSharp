@@ -1,6 +1,0 @@
-C:\Users\qnsdm\source\repos\Bool\Bool\bin\Debug\Bool.exe.config
-C:\Users\qnsdm\source\repos\Bool\Bool\bin\Debug\Bool.exe
-C:\Users\qnsdm\source\repos\Bool\Bool\bin\Debug\Bool.pdb
-C:\Users\qnsdm\source\repos\Bool\Bool\obj\Debug\Bool.csproj.CoreCompileInputs.cache
-C:\Users\qnsdm\source\repos\Bool\Bool\obj\Debug\Bool.exe
-C:\Users\qnsdm\source\repos\Bool\Bool\obj\Debug\Bool.pdb

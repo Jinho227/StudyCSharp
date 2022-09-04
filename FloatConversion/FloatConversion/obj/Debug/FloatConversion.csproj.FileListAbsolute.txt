@@ -1,6 +1,0 @@
-C:\Users\qnsdm\source\repos\FloatConversion\FloatConversion\bin\Debug\FloatConversion.exe.config
-C:\Users\qnsdm\source\repos\FloatConversion\FloatConversion\bin\Debug\FloatConversion.exe
-C:\Users\qnsdm\source\repos\FloatConversion\FloatConversion\bin\Debug\FloatConversion.pdb
-C:\Users\qnsdm\source\repos\FloatConversion\FloatConversion\obj\Debug\FloatConversion.csproj.CoreCompileInputs.cache
-C:\Users\qnsdm\source\repos\FloatConversion\FloatConversion\obj\Debug\FloatConversion.exe
-C:\Users\qnsdm\source\repos\FloatConversion\FloatConversion\obj\Debug\FloatConversion.pdb

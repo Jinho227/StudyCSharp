@@ -1,6 +1,0 @@
-C:\Users\qnsdm\source\repos\StringNumberConversion\StringNumberConversion\bin\Debug\StringNumberConversion.exe.config
-C:\Users\qnsdm\source\repos\StringNumberConversion\StringNumberConversion\bin\Debug\StringNumberConversion.exe
-C:\Users\qnsdm\source\repos\StringNumberConversion\StringNumberConversion\bin\Debug\StringNumberConversion.pdb
-C:\Users\qnsdm\source\repos\StringNumberConversion\StringNumberConversion\obj\Debug\StringNumberConversion.csproj.CoreCompileInputs.cache
-C:\Users\qnsdm\source\repos\StringNumberConversion\StringNumberConversion\obj\Debug\StringNumberConversion.exe
-C:\Users\qnsdm\source\repos\StringNumberConversion\StringNumberConversion\obj\Debug\StringNumberConversion.pdb

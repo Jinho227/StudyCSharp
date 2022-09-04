@@ -1,6 +1,0 @@
-C:\Users\qnsdm\source\repos\StringInterpolation\StringInterpolation\bin\Debug\StringInterpolation.exe.config
-C:\Users\qnsdm\source\repos\StringInterpolation\StringInterpolation\bin\Debug\StringInterpolation.exe
-C:\Users\qnsdm\source\repos\StringInterpolation\StringInterpolation\bin\Debug\StringInterpolation.pdb
-C:\Users\qnsdm\source\repos\StringInterpolation\StringInterpolation\obj\Debug\StringInterpolation.csproj.CoreCompileInputs.cache
-C:\Users\qnsdm\source\repos\StringInterpolation\StringInterpolation\obj\Debug\StringInterpolation.exe
-C:\Users\qnsdm\source\repos\StringInterpolation\StringInterpolation\obj\Debug\StringInterpolation.pdb

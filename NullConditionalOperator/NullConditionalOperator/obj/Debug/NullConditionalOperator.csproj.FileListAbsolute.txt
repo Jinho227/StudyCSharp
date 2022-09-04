@@ -1,7 +1,0 @@
-C:\Users\qnsdm\source\repos\NullConditionalOperator\NullConditionalOperator\bin\Debug\NullConditionalOperator.exe.config
-C:\Users\qnsdm\source\repos\NullConditionalOperator\NullConditionalOperator\bin\Debug\NullConditionalOperator.exe
-C:\Users\qnsdm\source\repos\NullConditionalOperator\NullConditionalOperator\bin\Debug\NullConditionalOperator.pdb
-C:\Users\qnsdm\source\repos\NullConditionalOperator\NullConditionalOperator\obj\Debug\NullConditionalOperator.csproj.AssemblyReference.cache
-C:\Users\qnsdm\source\repos\NullConditionalOperator\NullConditionalOperator\obj\Debug\NullConditionalOperator.csproj.CoreCompileInputs.cache
-C:\Users\qnsdm\source\repos\NullConditionalOperator\NullConditionalOperator\obj\Debug\NullConditionalOperator.exe
-C:\Users\qnsdm\source\repos\NullConditionalOperator\NullConditionalOperator\obj\Debug\NullConditionalOperator.pdb

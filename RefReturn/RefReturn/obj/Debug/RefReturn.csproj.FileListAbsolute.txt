@@ -1,6 +1,0 @@
-C:\Users\qnsdm\source\repos\RefReturn\RefReturn\bin\Debug\RefReturn.exe.config
-C:\Users\qnsdm\source\repos\RefReturn\RefReturn\bin\Debug\RefReturn.exe
-C:\Users\qnsdm\source\repos\RefReturn\RefReturn\bin\Debug\RefReturn.pdb
-C:\Users\qnsdm\source\repos\RefReturn\RefReturn\obj\Debug\RefReturn.csproj.CoreCompileInputs.cache
-C:\Users\qnsdm\source\repos\RefReturn\RefReturn\obj\Debug\RefReturn.exe
-C:\Users\qnsdm\source\repos\RefReturn\RefReturn\obj\Debug\RefReturn.pdb

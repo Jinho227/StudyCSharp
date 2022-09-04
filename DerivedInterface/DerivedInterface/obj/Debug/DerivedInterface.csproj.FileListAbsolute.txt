@@ -1,6 +1,0 @@
-C:\Users\qnsdm\source\repos\DerivedInterface\DerivedInterface\bin\Debug\DerivedInterface.exe.config
-C:\Users\qnsdm\source\repos\DerivedInterface\DerivedInterface\bin\Debug\DerivedInterface.exe
-C:\Users\qnsdm\source\repos\DerivedInterface\DerivedInterface\bin\Debug\DerivedInterface.pdb
-C:\Users\qnsdm\source\repos\DerivedInterface\DerivedInterface\obj\Debug\DerivedInterface.csproj.CoreCompileInputs.cache
-C:\Users\qnsdm\source\repos\DerivedInterface\DerivedInterface\obj\Debug\DerivedInterface.exe
-C:\Users\qnsdm\source\repos\DerivedInterface\DerivedInterface\obj\Debug\DerivedInterface.pdb

@@ -1,0 +1,6 @@
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Event Driven Programming\GenericDelegate\GenericDelegate\bin\Debug\GenericDelegate.exe.config
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Event Driven Programming\GenericDelegate\GenericDelegate\bin\Debug\GenericDelegate.exe
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Event Driven Programming\GenericDelegate\GenericDelegate\bin\Debug\GenericDelegate.pdb
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Event Driven Programming\GenericDelegate\GenericDelegate\obj\Debug\GenericDelegate.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Event Driven Programming\GenericDelegate\GenericDelegate\obj\Debug\GenericDelegate.exe
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Event Driven Programming\GenericDelegate\GenericDelegate\obj\Debug\GenericDelegate.pdb

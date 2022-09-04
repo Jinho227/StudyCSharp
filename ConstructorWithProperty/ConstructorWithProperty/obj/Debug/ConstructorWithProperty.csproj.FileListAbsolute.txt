@@ -1,7 +1,0 @@
-C:\Users\qnsdm\source\repos\ConstructorWithProperty\ConstructorWithProperty\bin\Debug\ConstructorWithProperty.exe.config
-C:\Users\qnsdm\source\repos\ConstructorWithProperty\ConstructorWithProperty\bin\Debug\ConstructorWithProperty.exe
-C:\Users\qnsdm\source\repos\ConstructorWithProperty\ConstructorWithProperty\bin\Debug\ConstructorWithProperty.pdb
-C:\Users\qnsdm\source\repos\ConstructorWithProperty\ConstructorWithProperty\obj\Debug\ConstructorWithProperty.csproj.AssemblyReference.cache
-C:\Users\qnsdm\source\repos\ConstructorWithProperty\ConstructorWithProperty\obj\Debug\ConstructorWithProperty.csproj.CoreCompileInputs.cache
-C:\Users\qnsdm\source\repos\ConstructorWithProperty\ConstructorWithProperty\obj\Debug\ConstructorWithProperty.exe
-C:\Users\qnsdm\source\repos\ConstructorWithProperty\ConstructorWithProperty\obj\Debug\ConstructorWithProperty.pdb

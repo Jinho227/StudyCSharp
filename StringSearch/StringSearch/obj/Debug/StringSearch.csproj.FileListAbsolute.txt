@@ -1,7 +1,0 @@
-C:\Users\qnsdm\source\repos\StringSearch\StringSearch\bin\Debug\StringSearch.exe.config
-C:\Users\qnsdm\source\repos\StringSearch\StringSearch\bin\Debug\StringSearch.exe
-C:\Users\qnsdm\source\repos\StringSearch\StringSearch\bin\Debug\StringSearch.pdb
-C:\Users\qnsdm\source\repos\StringSearch\StringSearch\obj\Debug\StringSearch.csproj.AssemblyReference.cache
-C:\Users\qnsdm\source\repos\StringSearch\StringSearch\obj\Debug\StringSearch.csproj.CoreCompileInputs.cache
-C:\Users\qnsdm\source\repos\StringSearch\StringSearch\obj\Debug\StringSearch.exe
-C:\Users\qnsdm\source\repos\StringSearch\StringSearch\obj\Debug\StringSearch.pdb

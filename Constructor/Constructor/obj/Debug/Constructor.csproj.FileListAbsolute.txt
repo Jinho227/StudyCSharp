@@ -1,6 +1,0 @@
-C:\Users\qnsdm\source\repos\Constructor\Constructor\bin\Debug\Constructor.exe.config
-C:\Users\qnsdm\source\repos\Constructor\Constructor\bin\Debug\Constructor.exe
-C:\Users\qnsdm\source\repos\Constructor\Constructor\bin\Debug\Constructor.pdb
-C:\Users\qnsdm\source\repos\Constructor\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
-C:\Users\qnsdm\source\repos\Constructor\Constructor\obj\Debug\Constructor.exe
-C:\Users\qnsdm\source\repos\Constructor\Constructor\obj\Debug\Constructor.pdb

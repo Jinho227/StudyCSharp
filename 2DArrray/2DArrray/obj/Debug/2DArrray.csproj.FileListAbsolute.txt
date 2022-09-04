@@ -1,6 +1,0 @@
-C:\Users\qnsdm\source\repos\2DArrray\2DArrray\bin\Debug\2DArrray.exe.config
-C:\Users\qnsdm\source\repos\2DArrray\2DArrray\bin\Debug\2DArrray.exe
-C:\Users\qnsdm\source\repos\2DArrray\2DArrray\bin\Debug\2DArrray.pdb
-C:\Users\qnsdm\source\repos\2DArrray\2DArrray\obj\Debug\2DArrray.csproj.CoreCompileInputs.cache
-C:\Users\qnsdm\source\repos\2DArrray\2DArrray\obj\Debug\2DArrray.exe
-C:\Users\qnsdm\source\repos\2DArrray\2DArrray\obj\Debug\2DArrray.pdb

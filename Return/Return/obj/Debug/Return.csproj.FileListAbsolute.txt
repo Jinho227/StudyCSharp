@@ -1,7 +1,0 @@
-C:\Users\qnsdm\source\repos\Return\Return\bin\Debug\Return.exe.config
-C:\Users\qnsdm\source\repos\Return\Return\bin\Debug\Return.exe
-C:\Users\qnsdm\source\repos\Return\Return\bin\Debug\Return.pdb
-C:\Users\qnsdm\source\repos\Return\Return\obj\Debug\Return.csproj.AssemblyReference.cache
-C:\Users\qnsdm\source\repos\Return\Return\obj\Debug\Return.csproj.CoreCompileInputs.cache
-C:\Users\qnsdm\source\repos\Return\Return\obj\Debug\Return.exe
-C:\Users\qnsdm\source\repos\Return\Return\obj\Debug\Return.pdb

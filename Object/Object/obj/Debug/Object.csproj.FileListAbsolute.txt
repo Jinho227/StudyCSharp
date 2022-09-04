@@ -1,6 +1,0 @@
-C:\Users\qnsdm\source\repos\Object\Object\bin\Debug\Object.exe.config
-C:\Users\qnsdm\source\repos\Object\Object\bin\Debug\Object.exe
-C:\Users\qnsdm\source\repos\Object\Object\bin\Debug\Object.pdb
-C:\Users\qnsdm\source\repos\Object\Object\obj\Debug\Object.csproj.CoreCompileInputs.cache
-C:\Users\qnsdm\source\repos\Object\Object\obj\Debug\Object.exe
-C:\Users\qnsdm\source\repos\Object\Object\obj\Debug\Object.pdb

@@ -1,6 +1,0 @@
-C:\Users\qnsdm\source\repos\PartialClass\PartialClass\bin\Debug\PartialClass.exe.config
-C:\Users\qnsdm\source\repos\PartialClass\PartialClass\bin\Debug\PartialClass.exe
-C:\Users\qnsdm\source\repos\PartialClass\PartialClass\bin\Debug\PartialClass.pdb
-C:\Users\qnsdm\source\repos\PartialClass\PartialClass\obj\Debug\PartialClass.csproj.CoreCompileInputs.cache
-C:\Users\qnsdm\source\repos\PartialClass\PartialClass\obj\Debug\PartialClass.exe
-C:\Users\qnsdm\source\repos\PartialClass\PartialClass\obj\Debug\PartialClass.pdb

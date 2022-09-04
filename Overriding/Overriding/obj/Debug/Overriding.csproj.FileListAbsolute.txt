@@ -1,7 +1,0 @@
-C:\Users\qnsdm\source\repos\Overriding\Overriding\bin\Debug\Overriding.exe.config
-C:\Users\qnsdm\source\repos\Overriding\Overriding\bin\Debug\Overriding.exe
-C:\Users\qnsdm\source\repos\Overriding\Overriding\bin\Debug\Overriding.pdb
-C:\Users\qnsdm\source\repos\Overriding\Overriding\obj\Debug\Overriding.csproj.AssemblyReference.cache
-C:\Users\qnsdm\source\repos\Overriding\Overriding\obj\Debug\Overriding.csproj.CoreCompileInputs.cache
-C:\Users\qnsdm\source\repos\Overriding\Overriding\obj\Debug\Overriding.exe
-C:\Users\qnsdm\source\repos\Overriding\Overriding\obj\Debug\Overriding.pdb

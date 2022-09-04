@@ -1,7 +1,0 @@
-C:\Users\qnsdm\source\repos\StringFormatDatetime\StringFormatDatetime\bin\Debug\StringFormatDatetime.exe.config
-C:\Users\qnsdm\source\repos\StringFormatDatetime\StringFormatDatetime\bin\Debug\StringFormatDatetime.exe
-C:\Users\qnsdm\source\repos\StringFormatDatetime\StringFormatDatetime\bin\Debug\StringFormatDatetime.pdb
-C:\Users\qnsdm\source\repos\StringFormatDatetime\StringFormatDatetime\obj\Debug\StringFormatDatetime.csproj.AssemblyReference.cache
-C:\Users\qnsdm\source\repos\StringFormatDatetime\StringFormatDatetime\obj\Debug\StringFormatDatetime.csproj.CoreCompileInputs.cache
-C:\Users\qnsdm\source\repos\StringFormatDatetime\StringFormatDatetime\obj\Debug\StringFormatDatetime.exe
-C:\Users\qnsdm\source\repos\StringFormatDatetime\StringFormatDatetime\obj\Debug\StringFormatDatetime.pdb

@@ -1,7 +1,0 @@
-C:\Users\qnsdm\source\repos\StaticField\StaticField\bin\Debug\StaticField.exe.config
-C:\Users\qnsdm\source\repos\StaticField\StaticField\bin\Debug\StaticField.exe
-C:\Users\qnsdm\source\repos\StaticField\StaticField\bin\Debug\StaticField.pdb
-C:\Users\qnsdm\source\repos\StaticField\StaticField\obj\Debug\StaticField.csproj.AssemblyReference.cache
-C:\Users\qnsdm\source\repos\StaticField\StaticField\obj\Debug\StaticField.csproj.CoreCompileInputs.cache
-C:\Users\qnsdm\source\repos\StaticField\StaticField\obj\Debug\StaticField.exe
-C:\Users\qnsdm\source\repos\StaticField\StaticField\obj\Debug\StaticField.pdb

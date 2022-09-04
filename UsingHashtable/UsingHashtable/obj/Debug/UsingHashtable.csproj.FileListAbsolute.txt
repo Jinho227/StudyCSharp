@@ -1,6 +1,0 @@
-C:\Users\qnsdm\source\repos\UsingHashtable\UsingHashtable\bin\Debug\UsingHashtable.exe.config
-C:\Users\qnsdm\source\repos\UsingHashtable\UsingHashtable\bin\Debug\UsingHashtable.exe
-C:\Users\qnsdm\source\repos\UsingHashtable\UsingHashtable\bin\Debug\UsingHashtable.pdb
-C:\Users\qnsdm\source\repos\UsingHashtable\UsingHashtable\obj\Debug\UsingHashtable.csproj.CoreCompileInputs.cache
-C:\Users\qnsdm\source\repos\UsingHashtable\UsingHashtable\obj\Debug\UsingHashtable.exe
-C:\Users\qnsdm\source\repos\UsingHashtable\UsingHashtable\obj\Debug\UsingHashtable.pdb

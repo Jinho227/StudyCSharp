@@ -1,6 +1,0 @@
-C:\Users\qnsdm\source\repos\MethodHiding\MethodHiding\bin\Debug\MethodHiding.exe.config
-C:\Users\qnsdm\source\repos\MethodHiding\MethodHiding\bin\Debug\MethodHiding.exe
-C:\Users\qnsdm\source\repos\MethodHiding\MethodHiding\bin\Debug\MethodHiding.pdb
-C:\Users\qnsdm\source\repos\MethodHiding\MethodHiding\obj\Debug\MethodHiding.csproj.CoreCompileInputs.cache
-C:\Users\qnsdm\source\repos\MethodHiding\MethodHiding\obj\Debug\MethodHiding.exe
-C:\Users\qnsdm\source\repos\MethodHiding\MethodHiding\obj\Debug\MethodHiding.pdb

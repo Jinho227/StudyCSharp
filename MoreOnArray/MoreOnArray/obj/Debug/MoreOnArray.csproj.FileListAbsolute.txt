@@ -1,7 +1,0 @@
-C:\Users\qnsdm\source\repos\MoreOnArray\MoreOnArray\bin\Debug\MoreOnArray.exe.config
-C:\Users\qnsdm\source\repos\MoreOnArray\MoreOnArray\bin\Debug\MoreOnArray.exe
-C:\Users\qnsdm\source\repos\MoreOnArray\MoreOnArray\bin\Debug\MoreOnArray.pdb
-C:\Users\qnsdm\source\repos\MoreOnArray\MoreOnArray\obj\Debug\MoreOnArray.csproj.AssemblyReference.cache
-C:\Users\qnsdm\source\repos\MoreOnArray\MoreOnArray\obj\Debug\MoreOnArray.csproj.CoreCompileInputs.cache
-C:\Users\qnsdm\source\repos\MoreOnArray\MoreOnArray\obj\Debug\MoreOnArray.exe
-C:\Users\qnsdm\source\repos\MoreOnArray\MoreOnArray\obj\Debug\MoreOnArray.pdb

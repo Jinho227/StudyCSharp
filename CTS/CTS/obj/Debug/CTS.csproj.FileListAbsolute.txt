@@ -1,6 +1,0 @@
-C:\Users\qnsdm\source\repos\CTS\CTS\bin\Debug\CTS.exe.config
-C:\Users\qnsdm\source\repos\CTS\CTS\bin\Debug\CTS.exe
-C:\Users\qnsdm\source\repos\CTS\CTS\bin\Debug\CTS.pdb
-C:\Users\qnsdm\source\repos\CTS\CTS\obj\Debug\CTS.csproj.CoreCompileInputs.cache
-C:\Users\qnsdm\source\repos\CTS\CTS\obj\Debug\CTS.exe
-C:\Users\qnsdm\source\repos\CTS\CTS\obj\Debug\CTS.pdb

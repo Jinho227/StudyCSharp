@@ -1,6 +1,0 @@
-C:\Users\qnsdm\source\repos\BoxingUnboxing\BoxingUnboxing\bin\Debug\BoxingUnboxing.exe.config
-C:\Users\qnsdm\source\repos\BoxingUnboxing\BoxingUnboxing\bin\Debug\BoxingUnboxing.exe
-C:\Users\qnsdm\source\repos\BoxingUnboxing\BoxingUnboxing\bin\Debug\BoxingUnboxing.pdb
-C:\Users\qnsdm\source\repos\BoxingUnboxing\BoxingUnboxing\obj\Debug\BoxingUnboxing.csproj.CoreCompileInputs.cache
-C:\Users\qnsdm\source\repos\BoxingUnboxing\BoxingUnboxing\obj\Debug\BoxingUnboxing.exe
-C:\Users\qnsdm\source\repos\BoxingUnboxing\BoxingUnboxing\obj\Debug\BoxingUnboxing.pdb

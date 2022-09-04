@@ -1,6 +1,0 @@
-C:\Users\qnsdm\source\repos\ExtensionMethod\ExtensionMethod\bin\Debug\ExtensionMethod.exe.config
-C:\Users\qnsdm\source\repos\ExtensionMethod\ExtensionMethod\bin\Debug\ExtensionMethod.exe
-C:\Users\qnsdm\source\repos\ExtensionMethod\ExtensionMethod\bin\Debug\ExtensionMethod.pdb
-C:\Users\qnsdm\source\repos\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.csproj.CoreCompileInputs.cache
-C:\Users\qnsdm\source\repos\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.exe
-C:\Users\qnsdm\source\repos\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.pdb

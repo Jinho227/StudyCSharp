@@ -1,7 +1,0 @@
-C:\Users\qnsdm\source\repos\StringSlice\StringSlice\bin\Debug\StringSlice.exe.config
-C:\Users\qnsdm\source\repos\StringSlice\StringSlice\bin\Debug\StringSlice.exe
-C:\Users\qnsdm\source\repos\StringSlice\StringSlice\bin\Debug\StringSlice.pdb
-C:\Users\qnsdm\source\repos\StringSlice\StringSlice\obj\Debug\StringSlice.csproj.AssemblyReference.cache
-C:\Users\qnsdm\source\repos\StringSlice\StringSlice\obj\Debug\StringSlice.csproj.CoreCompileInputs.cache
-C:\Users\qnsdm\source\repos\StringSlice\StringSlice\obj\Debug\StringSlice.exe
-C:\Users\qnsdm\source\repos\StringSlice\StringSlice\obj\Debug\StringSlice.pdb
