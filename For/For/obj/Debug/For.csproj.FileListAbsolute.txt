@@ -1,0 +1,6 @@
+C:\Users\qnsdm\source\repos\For\For\bin\Debug\For.exe.config
+C:\Users\qnsdm\source\repos\For\For\bin\Debug\For.exe
+C:\Users\qnsdm\source\repos\For\For\bin\Debug\For.pdb
+C:\Users\qnsdm\source\repos\For\For\obj\Debug\For.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\source\repos\For\For\obj\Debug\For.exe
+C:\Users\qnsdm\source\repos\For\For\obj\Debug\For.pdb

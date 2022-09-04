@@ -1,0 +1,6 @@
+C:\Users\qnsdm\source\repos\NamedParameter\NamedParameter\bin\Debug\NamedParameter.exe.config
+C:\Users\qnsdm\source\repos\NamedParameter\NamedParameter\bin\Debug\NamedParameter.exe
+C:\Users\qnsdm\source\repos\NamedParameter\NamedParameter\bin\Debug\NamedParameter.pdb
+C:\Users\qnsdm\source\repos\NamedParameter\NamedParameter\obj\Debug\NamedParameter.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\source\repos\NamedParameter\NamedParameter\obj\Debug\NamedParameter.exe
+C:\Users\qnsdm\source\repos\NamedParameter\NamedParameter\obj\Debug\NamedParameter.pdb

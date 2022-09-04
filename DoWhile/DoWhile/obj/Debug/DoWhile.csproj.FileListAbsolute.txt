@@ -1,0 +1,6 @@
+C:\Users\qnsdm\source\repos\DoWhile\DoWhile\bin\Debug\DoWhile.exe.config
+C:\Users\qnsdm\source\repos\DoWhile\DoWhile\bin\Debug\DoWhile.exe
+C:\Users\qnsdm\source\repos\DoWhile\DoWhile\bin\Debug\DoWhile.pdb
+C:\Users\qnsdm\source\repos\DoWhile\DoWhile\obj\Debug\DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\source\repos\DoWhile\DoWhile\obj\Debug\DoWhile.exe
+C:\Users\qnsdm\source\repos\DoWhile\DoWhile\obj\Debug\DoWhile.pdb

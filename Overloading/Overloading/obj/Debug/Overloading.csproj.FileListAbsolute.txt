@@ -1,0 +1,6 @@
+C:\Users\qnsdm\source\repos\Overloading\Overloading\bin\Debug\Overloading.exe.config
+C:\Users\qnsdm\source\repos\Overloading\Overloading\bin\Debug\Overloading.exe
+C:\Users\qnsdm\source\repos\Overloading\Overloading\bin\Debug\Overloading.pdb
+C:\Users\qnsdm\source\repos\Overloading\Overloading\obj\Debug\Overloading.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\source\repos\Overloading\Overloading\obj\Debug\Overloading.exe
+C:\Users\qnsdm\source\repos\Overloading\Overloading\obj\Debug\Overloading.pdb

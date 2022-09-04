@@ -1,0 +1,7 @@
+C:\Users\qnsdm\source\repos\BitwiseOperator\BitwiseOperator\obj\Debug\BitwiseOperator.csproj.AssemblyReference.cache
+C:\Users\qnsdm\source\repos\BitwiseOperator\BitwiseOperator\obj\Debug\BitwiseOperator.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\source\repos\BitwiseOperator\BitwiseOperator\bin\Debug\BitwiseOperator.exe.config
+C:\Users\qnsdm\source\repos\BitwiseOperator\BitwiseOperator\bin\Debug\BitwiseOperator.exe
+C:\Users\qnsdm\source\repos\BitwiseOperator\BitwiseOperator\bin\Debug\BitwiseOperator.pdb
+C:\Users\qnsdm\source\repos\BitwiseOperator\BitwiseOperator\obj\Debug\BitwiseOperator.exe
+C:\Users\qnsdm\source\repos\BitwiseOperator\BitwiseOperator\obj\Debug\BitwiseOperator.pdb

@@ -1,0 +1,6 @@
+C:\Users\qnsdm\source\repos\3DArray\3DArray\bin\Debug\3DArray.exe.config
+C:\Users\qnsdm\source\repos\3DArray\3DArray\bin\Debug\3DArray.exe
+C:\Users\qnsdm\source\repos\3DArray\3DArray\bin\Debug\3DArray.pdb
+C:\Users\qnsdm\source\repos\3DArray\3DArray\obj\Debug\3DArray.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\source\repos\3DArray\3DArray\obj\Debug\3DArray.exe
+C:\Users\qnsdm\source\repos\3DArray\3DArray\obj\Debug\3DArray.pdb

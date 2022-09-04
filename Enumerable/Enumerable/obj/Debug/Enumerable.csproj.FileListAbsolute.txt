@@ -1,0 +1,6 @@
+C:\Users\qnsdm\source\repos\Enumerable\Enumerable\bin\Debug\Enumerable.exe.config
+C:\Users\qnsdm\source\repos\Enumerable\Enumerable\bin\Debug\Enumerable.exe
+C:\Users\qnsdm\source\repos\Enumerable\Enumerable\bin\Debug\Enumerable.pdb
+C:\Users\qnsdm\source\repos\Enumerable\Enumerable\obj\Debug\Enumerable.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\source\repos\Enumerable\Enumerable\obj\Debug\Enumerable.exe
+C:\Users\qnsdm\source\repos\Enumerable\Enumerable\obj\Debug\Enumerable.pdb

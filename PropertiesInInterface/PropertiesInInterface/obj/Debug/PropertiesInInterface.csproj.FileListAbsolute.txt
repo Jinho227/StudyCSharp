@@ -1,0 +1,6 @@
+C:\Users\qnsdm\source\repos\PropertiesInInterface\PropertiesInInterface\bin\Debug\PropertiesInInterface.exe.config
+C:\Users\qnsdm\source\repos\PropertiesInInterface\PropertiesInInterface\bin\Debug\PropertiesInInterface.exe
+C:\Users\qnsdm\source\repos\PropertiesInInterface\PropertiesInInterface\bin\Debug\PropertiesInInterface.pdb
+C:\Users\qnsdm\source\repos\PropertiesInInterface\PropertiesInInterface\obj\Debug\PropertiesInInterface.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\source\repos\PropertiesInInterface\PropertiesInInterface\obj\Debug\PropertiesInInterface.exe
+C:\Users\qnsdm\source\repos\PropertiesInInterface\PropertiesInInterface\obj\Debug\PropertiesInInterface.pdb

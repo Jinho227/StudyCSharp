@@ -1,0 +1,6 @@
+C:\Users\qnsdm\source\repos\Enum2\Enum2\bin\Debug\Enum2.exe.config
+C:\Users\qnsdm\source\repos\Enum2\Enum2\bin\Debug\Enum2.exe
+C:\Users\qnsdm\source\repos\Enum2\Enum2\bin\Debug\Enum2.pdb
+C:\Users\qnsdm\source\repos\Enum2\Enum2\obj\Debug\Enum2.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\source\repos\Enum2\Enum2\obj\Debug\Enum2.exe
+C:\Users\qnsdm\source\repos\Enum2\Enum2\obj\Debug\Enum2.pdb

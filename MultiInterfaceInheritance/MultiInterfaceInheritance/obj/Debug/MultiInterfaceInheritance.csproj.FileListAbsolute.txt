@@ -1,0 +1,6 @@
+C:\Users\qnsdm\source\repos\MultiInterfaceInheritance\MultiInterfaceInheritance\bin\Debug\MultiInterfaceInheritance.exe.config
+C:\Users\qnsdm\source\repos\MultiInterfaceInheritance\MultiInterfaceInheritance\bin\Debug\MultiInterfaceInheritance.exe
+C:\Users\qnsdm\source\repos\MultiInterfaceInheritance\MultiInterfaceInheritance\bin\Debug\MultiInterfaceInheritance.pdb
+C:\Users\qnsdm\source\repos\MultiInterfaceInheritance\MultiInterfaceInheritance\obj\Debug\MultiInterfaceInheritance.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\source\repos\MultiInterfaceInheritance\MultiInterfaceInheritance\obj\Debug\MultiInterfaceInheritance.exe
+C:\Users\qnsdm\source\repos\MultiInterfaceInheritance\MultiInterfaceInheritance\obj\Debug\MultiInterfaceInheritance.pdb

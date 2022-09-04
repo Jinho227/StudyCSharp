@@ -1,0 +1,7 @@
+C:\Users\qnsdm\source\repos\ThisConstructor\ThisConstructor\bin\Debug\ThisConstructor.exe.config
+C:\Users\qnsdm\source\repos\ThisConstructor\ThisConstructor\bin\Debug\ThisConstructor.exe
+C:\Users\qnsdm\source\repos\ThisConstructor\ThisConstructor\bin\Debug\ThisConstructor.pdb
+C:\Users\qnsdm\source\repos\ThisConstructor\ThisConstructor\obj\Debug\ThisConstructor.csproj.AssemblyReference.cache
+C:\Users\qnsdm\source\repos\ThisConstructor\ThisConstructor\obj\Debug\ThisConstructor.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\source\repos\ThisConstructor\ThisConstructor\obj\Debug\ThisConstructor.exe
+C:\Users\qnsdm\source\repos\ThisConstructor\ThisConstructor\obj\Debug\ThisConstructor.pdb

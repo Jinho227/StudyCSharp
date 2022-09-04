@@ -1,0 +1,6 @@
+C:\Users\qnsdm\source\repos\InfiniteFor\InfiniteFor\bin\Debug\InfiniteFor.exe.config
+C:\Users\qnsdm\source\repos\InfiniteFor\InfiniteFor\bin\Debug\InfiniteFor.exe
+C:\Users\qnsdm\source\repos\InfiniteFor\InfiniteFor\bin\Debug\InfiniteFor.pdb
+C:\Users\qnsdm\source\repos\InfiniteFor\InfiniteFor\obj\Debug\InfiniteFor.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\source\repos\InfiniteFor\InfiniteFor\obj\Debug\InfiniteFor.exe
+C:\Users\qnsdm\source\repos\InfiniteFor\InfiniteFor\obj\Debug\InfiniteFor.pdb

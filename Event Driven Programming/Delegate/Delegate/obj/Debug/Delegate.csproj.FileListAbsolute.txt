@@ -1,7 +1,0 @@
-C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Event Driven Programming\Delegate\Delegate\bin\Debug\Delegate.exe.config
-C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Event Driven Programming\Delegate\Delegate\bin\Debug\Delegate.exe
-C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Event Driven Programming\Delegate\Delegate\bin\Debug\Delegate.pdb
-C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Event Driven Programming\Delegate\Delegate\obj\Debug\Delegate.csproj.AssemblyReference.cache
-C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Event Driven Programming\Delegate\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
-C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Event Driven Programming\Delegate\Delegate\obj\Debug\Delegate.exe
-C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Event Driven Programming\Delegate\Delegate\obj\Debug\Delegate.pdb

@@ -1,0 +1,7 @@
+C:\Users\qnsdm\source\repos\InfiniteWhile\InfiniteWhile\bin\Debug\InfiniteWhile.exe.config
+C:\Users\qnsdm\source\repos\InfiniteWhile\InfiniteWhile\bin\Debug\InfiniteWhile.exe
+C:\Users\qnsdm\source\repos\InfiniteWhile\InfiniteWhile\bin\Debug\InfiniteWhile.pdb
+C:\Users\qnsdm\source\repos\InfiniteWhile\InfiniteWhile\obj\Debug\InfiniteWhile.csproj.AssemblyReference.cache
+C:\Users\qnsdm\source\repos\InfiniteWhile\InfiniteWhile\obj\Debug\InfiniteWhile.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\source\repos\InfiniteWhile\InfiniteWhile\obj\Debug\InfiniteWhile.exe
+C:\Users\qnsdm\source\repos\InfiniteWhile\InfiniteWhile\obj\Debug\InfiniteWhile.pdb

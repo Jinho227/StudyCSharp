@@ -1,7 +1,0 @@
-C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Event Driven Programming\UsingCallback\UsingCallback\bin\Debug\UsingCallback.exe.config
-C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Event Driven Programming\UsingCallback\UsingCallback\bin\Debug\UsingCallback.exe
-C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Event Driven Programming\UsingCallback\UsingCallback\bin\Debug\UsingCallback.pdb
-C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Event Driven Programming\UsingCallback\UsingCallback\obj\Debug\UsingCallback.csproj.AssemblyReference.cache
-C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Event Driven Programming\UsingCallback\UsingCallback\obj\Debug\UsingCallback.csproj.CoreCompileInputs.cache
-C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Event Driven Programming\UsingCallback\UsingCallback\obj\Debug\UsingCallback.exe
-C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\Event Driven Programming\UsingCallback\UsingCallback\obj\Debug\UsingCallback.pdb

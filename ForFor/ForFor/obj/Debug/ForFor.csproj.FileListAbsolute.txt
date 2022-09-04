@@ -1,0 +1,6 @@
+C:\Users\qnsdm\source\repos\ForFor\ForFor\bin\Debug\ForFor.exe.config
+C:\Users\qnsdm\source\repos\ForFor\ForFor\bin\Debug\ForFor.exe
+C:\Users\qnsdm\source\repos\ForFor\ForFor\bin\Debug\ForFor.pdb
+C:\Users\qnsdm\source\repos\ForFor\ForFor\obj\Debug\ForFor.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\source\repos\ForFor\ForFor\obj\Debug\ForFor.exe
+C:\Users\qnsdm\source\repos\ForFor\ForFor\obj\Debug\ForFor.pdb

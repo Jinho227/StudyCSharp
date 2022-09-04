@@ -1,0 +1,6 @@
+C:\Users\qnsdm\source\repos\Overflow\Overflow\bin\Debug\Overflow.exe.config
+C:\Users\qnsdm\source\repos\Overflow\Overflow\bin\Debug\Overflow.exe
+C:\Users\qnsdm\source\repos\Overflow\Overflow\bin\Debug\Overflow.pdb
+C:\Users\qnsdm\source\repos\Overflow\Overflow\obj\Debug\Overflow.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\source\repos\Overflow\Overflow\obj\Debug\Overflow.exe
+C:\Users\qnsdm\source\repos\Overflow\Overflow\obj\Debug\Overflow.pdb

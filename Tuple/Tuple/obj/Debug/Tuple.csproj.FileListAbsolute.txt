@@ -1,0 +1,6 @@
+C:\Users\qnsdm\source\repos\Tuple\Tuple\bin\Debug\Tuple.exe.config
+C:\Users\qnsdm\source\repos\Tuple\Tuple\bin\Debug\Tuple.exe
+C:\Users\qnsdm\source\repos\Tuple\Tuple\bin\Debug\Tuple.pdb
+C:\Users\qnsdm\source\repos\Tuple\Tuple\obj\Debug\Tuple.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\source\repos\Tuple\Tuple\obj\Debug\Tuple.exe
+C:\Users\qnsdm\source\repos\Tuple\Tuple\obj\Debug\Tuple.pdb

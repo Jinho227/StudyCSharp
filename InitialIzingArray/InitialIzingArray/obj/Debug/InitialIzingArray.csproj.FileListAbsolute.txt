@@ -1,0 +1,6 @@
+C:\Users\qnsdm\source\repos\InitialIzingArray\InitialIzingArray\bin\Debug\InitialIzingArray.exe.config
+C:\Users\qnsdm\source\repos\InitialIzingArray\InitialIzingArray\bin\Debug\InitialIzingArray.exe
+C:\Users\qnsdm\source\repos\InitialIzingArray\InitialIzingArray\bin\Debug\InitialIzingArray.pdb
+C:\Users\qnsdm\source\repos\InitialIzingArray\InitialIzingArray\obj\Debug\InitialIzingArray.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\source\repos\InitialIzingArray\InitialIzingArray\obj\Debug\InitialIzingArray.exe
+C:\Users\qnsdm\source\repos\InitialIzingArray\InitialIzingArray\obj\Debug\InitialIzingArray.pdb

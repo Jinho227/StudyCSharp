@@ -1,0 +1,6 @@
+C:\Users\qnsdm\source\repos\DerivedFromArray\DerivedFromArray\bin\Debug\DerivedFromArray.exe.config
+C:\Users\qnsdm\source\repos\DerivedFromArray\DerivedFromArray\bin\Debug\DerivedFromArray.exe
+C:\Users\qnsdm\source\repos\DerivedFromArray\DerivedFromArray\bin\Debug\DerivedFromArray.pdb
+C:\Users\qnsdm\source\repos\DerivedFromArray\DerivedFromArray\obj\Debug\DerivedFromArray.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\source\repos\DerivedFromArray\DerivedFromArray\obj\Debug\DerivedFromArray.exe
+C:\Users\qnsdm\source\repos\DerivedFromArray\DerivedFromArray\obj\Debug\DerivedFromArray.pdb
