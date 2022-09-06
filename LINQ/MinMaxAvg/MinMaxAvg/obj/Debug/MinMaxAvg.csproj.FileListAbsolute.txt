@@ -1,0 +1,7 @@
+C:\Users\qnsdm\source\repos\MinMaxAvg\MinMaxAvg\bin\Debug\MinMaxAvg.exe.config
+C:\Users\qnsdm\source\repos\MinMaxAvg\MinMaxAvg\bin\Debug\MinMaxAvg.exe
+C:\Users\qnsdm\source\repos\MinMaxAvg\MinMaxAvg\bin\Debug\MinMaxAvg.pdb
+C:\Users\qnsdm\source\repos\MinMaxAvg\MinMaxAvg\obj\Debug\MinMaxAvg.csproj.AssemblyReference.cache
+C:\Users\qnsdm\source\repos\MinMaxAvg\MinMaxAvg\obj\Debug\MinMaxAvg.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\source\repos\MinMaxAvg\MinMaxAvg\obj\Debug\MinMaxAvg.exe
+C:\Users\qnsdm\source\repos\MinMaxAvg\MinMaxAvg\obj\Debug\MinMaxAvg.pdb

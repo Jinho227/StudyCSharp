@@ -1,0 +1,6 @@
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\LINQ\FromFrom\FromFrom\bin\Debug\FromFrom.exe.config
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\LINQ\FromFrom\FromFrom\bin\Debug\FromFrom.exe
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\LINQ\FromFrom\FromFrom\bin\Debug\FromFrom.pdb
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\LINQ\FromFrom\FromFrom\obj\Debug\FromFrom.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\LINQ\FromFrom\FromFrom\obj\Debug\FromFrom.exe
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\LINQ\FromFrom\FromFrom\obj\Debug\FromFrom.pdb

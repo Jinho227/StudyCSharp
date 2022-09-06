@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleLinq2", "SimpleLinq2\SimpleLinq2.csproj", "{1367EAB0-94D3-440B-A706-579AA2B202EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1367EAB0-94D3-440B-A706-579AA2B202EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1367EAB0-94D3-440B-A706-579AA2B202EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1367EAB0-94D3-440B-A706-579AA2B202EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1367EAB0-94D3-440B-A706-579AA2B202EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEEB45A3-AE64-44E7-B153-39972A790CCE}
+	EndGlobalSection
+EndGlobal

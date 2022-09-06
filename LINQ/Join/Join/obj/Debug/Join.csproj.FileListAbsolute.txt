@@ -1,0 +1,7 @@
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\LINQ\Join\Join\bin\Debug\Join.exe.config
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\LINQ\Join\Join\bin\Debug\Join.exe
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\LINQ\Join\Join\bin\Debug\Join.pdb
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\LINQ\Join\Join\obj\Debug\Join.csproj.AssemblyReference.cache
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\LINQ\Join\Join\obj\Debug\Join.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\LINQ\Join\Join\obj\Debug\Join.exe
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\LINQ\Join\Join\obj\Debug\Join.pdb

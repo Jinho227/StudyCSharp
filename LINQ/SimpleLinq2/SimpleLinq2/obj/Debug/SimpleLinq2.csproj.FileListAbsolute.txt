@@ -1,0 +1,6 @@
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\LINQ\SimpleLinq2\SimpleLinq2\bin\Debug\SimpleLinq2.exe.config
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\LINQ\SimpleLinq2\SimpleLinq2\bin\Debug\SimpleLinq2.exe
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\LINQ\SimpleLinq2\SimpleLinq2\bin\Debug\SimpleLinq2.pdb
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\LINQ\SimpleLinq2\SimpleLinq2\obj\Debug\SimpleLinq2.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\LINQ\SimpleLinq2\SimpleLinq2\obj\Debug\SimpleLinq2.exe
+C:\Users\qnsdm\OneDrive\바탕 화면\GitHub\StudyCSharp\LINQ\SimpleLinq2\SimpleLinq2\obj\Debug\SimpleLinq2.pdb
