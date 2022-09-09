@@ -1,0 +1,7 @@
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Reflection & Attribute\BasicAttribute\BasicAttribute\bin\Debug\BasicAttribute.exe.config
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Reflection & Attribute\BasicAttribute\BasicAttribute\bin\Debug\BasicAttribute.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Reflection & Attribute\BasicAttribute\BasicAttribute\bin\Debug\BasicAttribute.pdb
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Reflection & Attribute\BasicAttribute\BasicAttribute\obj\Debug\BasicAttribute.csproj.AssemblyReference.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Reflection & Attribute\BasicAttribute\BasicAttribute\obj\Debug\BasicAttribute.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Reflection & Attribute\BasicAttribute\BasicAttribute\obj\Debug\BasicAttribute.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Reflection & Attribute\BasicAttribute\BasicAttribute\obj\Debug\BasicAttribute.pdb

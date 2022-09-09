@@ -1,0 +1,7 @@
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Reflection & Attribute\DynamicInstance\DynamicInstance\obj\Debug\DynamicInstance.csproj.AssemblyReference.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Reflection & Attribute\DynamicInstance\DynamicInstance\obj\Debug\DynamicInstance.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Reflection & Attribute\DynamicInstance\DynamicInstance\bin\Debug\DynamicInstance.exe.config
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Reflection & Attribute\DynamicInstance\DynamicInstance\bin\Debug\DynamicInstance.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Reflection & Attribute\DynamicInstance\DynamicInstance\bin\Debug\DynamicInstance.pdb
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Reflection & Attribute\DynamicInstance\DynamicInstance\obj\Debug\DynamicInstance.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Reflection & Attribute\DynamicInstance\DynamicInstance\obj\Debug\DynamicInstance.pdb

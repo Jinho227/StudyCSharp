@@ -1,0 +1,7 @@
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Reflection & Attribute\GetType\GetType\bin\Debug\GetType.exe.config
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Reflection & Attribute\GetType\GetType\bin\Debug\GetType.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Reflection & Attribute\GetType\GetType\bin\Debug\GetType.pdb
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Reflection & Attribute\GetType\GetType\obj\Debug\GetType.csproj.AssemblyReference.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Reflection & Attribute\GetType\GetType\obj\Debug\GetType.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Reflection & Attribute\GetType\GetType\obj\Debug\GetType.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Reflection & Attribute\GetType\GetType\obj\Debug\GetType.pdb

@@ -1,0 +1,6 @@
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Reflection & Attribute\CallerInfo\CallerInfo\bin\Debug\CallerInfo.exe.config
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Reflection & Attribute\CallerInfo\CallerInfo\bin\Debug\CallerInfo.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Reflection & Attribute\CallerInfo\CallerInfo\bin\Debug\CallerInfo.pdb
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Reflection & Attribute\CallerInfo\CallerInfo\obj\Debug\CallerInfo.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Reflection & Attribute\CallerInfo\CallerInfo\obj\Debug\CallerInfo.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Reflection & Attribute\CallerInfo\CallerInfo\obj\Debug\CallerInfo.pdb
