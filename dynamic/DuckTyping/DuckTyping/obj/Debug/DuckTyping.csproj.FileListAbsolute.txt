@@ -1,0 +1,7 @@
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\dynamic\DuckTyping\DuckTyping\bin\Debug\DuckTyping.exe.config
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\dynamic\DuckTyping\DuckTyping\bin\Debug\DuckTyping.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\dynamic\DuckTyping\DuckTyping\bin\Debug\DuckTyping.pdb
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\dynamic\DuckTyping\DuckTyping\obj\Debug\DuckTyping.csproj.AssemblyReference.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\dynamic\DuckTyping\DuckTyping\obj\Debug\DuckTyping.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\dynamic\DuckTyping\DuckTyping\obj\Debug\DuckTyping.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\dynamic\DuckTyping\DuckTyping\obj\Debug\DuckTyping.pdb

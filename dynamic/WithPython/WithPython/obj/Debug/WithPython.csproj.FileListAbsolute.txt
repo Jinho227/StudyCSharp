@@ -1,0 +1,12 @@
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\dynamic\WithPython\WithPython\bin\Debug\WithPython.exe.config
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\dynamic\WithPython\WithPython\bin\Debug\WithPython.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\dynamic\WithPython\WithPython\bin\Debug\WithPython.pdb
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\dynamic\WithPython\WithPython\bin\Debug\IronPython.dll
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\dynamic\WithPython\WithPython\bin\Debug\IronPython.Modules.dll
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\dynamic\WithPython\WithPython\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\dynamic\WithPython\WithPython\bin\Debug\Microsoft.Scripting.dll
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\dynamic\WithPython\WithPython\obj\Debug\WithPython.csproj.AssemblyReference.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\dynamic\WithPython\WithPython\obj\Debug\WithPython.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\dynamic\WithPython\WithPython\obj\Debug\WithPython.csproj.CopyComplete
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\dynamic\WithPython\WithPython\obj\Debug\WithPython.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\dynamic\WithPython\WithPython\obj\Debug\WithPython.pdb

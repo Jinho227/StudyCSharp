@@ -1,0 +1,8 @@
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\dynamic\COMInterop\COMInterop\obj\Debug\COMInterop.csproj.AssemblyReference.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\dynamic\COMInterop\COMInterop\obj\Debug\COMInterop.csproj.ResolveComReference.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\dynamic\COMInterop\COMInterop\obj\Debug\COMInterop.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\dynamic\COMInterop\COMInterop\bin\Debug\COMInterop.exe.config
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\dynamic\COMInterop\COMInterop\bin\Debug\COMInterop.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\dynamic\COMInterop\COMInterop\bin\Debug\COMInterop.pdb
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\dynamic\COMInterop\COMInterop\obj\Debug\COMInterop.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\dynamic\COMInterop\COMInterop\obj\Debug\COMInterop.pdb
