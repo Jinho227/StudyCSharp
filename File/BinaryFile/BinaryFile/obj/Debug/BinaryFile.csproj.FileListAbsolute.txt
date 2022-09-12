@@ -1,0 +1,6 @@
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\File\BinaryFile\BinaryFile\bin\Debug\BinaryFile.exe.config
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\File\BinaryFile\BinaryFile\bin\Debug\BinaryFile.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\File\BinaryFile\BinaryFile\bin\Debug\BinaryFile.pdb
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\File\BinaryFile\BinaryFile\obj\Debug\BinaryFile.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\File\BinaryFile\BinaryFile\obj\Debug\BinaryFile.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\File\BinaryFile\BinaryFile\obj\Debug\BinaryFile.pdb

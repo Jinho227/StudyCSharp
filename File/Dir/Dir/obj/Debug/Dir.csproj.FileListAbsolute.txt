@@ -1,0 +1,7 @@
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\File\Dir\Dir\bin\Debug\Dir.exe.config
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\File\Dir\Dir\bin\Debug\Dir.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\File\Dir\Dir\bin\Debug\Dir.pdb
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\File\Dir\Dir\obj\Debug\Dir.csproj.AssemblyReference.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\File\Dir\Dir\obj\Debug\Dir.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\File\Dir\Dir\obj\Debug\Dir.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\File\Dir\Dir\obj\Debug\Dir.pdb

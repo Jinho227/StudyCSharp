@@ -1,0 +1,7 @@
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\File\Touch\Touch\bin\Debug\Touch.exe.config
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\File\Touch\Touch\bin\Debug\Touch.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\File\Touch\Touch\bin\Debug\Touch.pdb
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\File\Touch\Touch\obj\Debug\Touch.csproj.AssemblyReference.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\File\Touch\Touch\obj\Debug\Touch.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\File\Touch\Touch\obj\Debug\Touch.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\File\Touch\Touch\obj\Debug\Touch.pdb

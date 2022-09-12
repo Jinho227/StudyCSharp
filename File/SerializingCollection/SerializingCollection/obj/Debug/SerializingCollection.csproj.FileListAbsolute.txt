@@ -1,0 +1,6 @@
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\File\SerializingCollection\SerializingCollection\bin\Debug\SerializingCollection.exe.config
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\File\SerializingCollection\SerializingCollection\bin\Debug\SerializingCollection.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\File\SerializingCollection\SerializingCollection\bin\Debug\SerializingCollection.pdb
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\File\SerializingCollection\SerializingCollection\obj\Debug\SerializingCollection.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\File\SerializingCollection\SerializingCollection\obj\Debug\SerializingCollection.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\File\SerializingCollection\SerializingCollection\obj\Debug\SerializingCollection.pdb

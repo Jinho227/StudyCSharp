@@ -1,0 +1,7 @@
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\File\BasicIO\BasicIO\bin\Debug\BasicIO.exe.config
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\File\BasicIO\BasicIO\bin\Debug\BasicIO.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\File\BasicIO\BasicIO\bin\Debug\BasicIO.pdb
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\File\BasicIO\BasicIO\obj\Debug\BasicIO.csproj.AssemblyReference.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\File\BasicIO\BasicIO\obj\Debug\BasicIO.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\File\BasicIO\BasicIO\obj\Debug\BasicIO.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\File\BasicIO\BasicIO\obj\Debug\BasicIO.pdb

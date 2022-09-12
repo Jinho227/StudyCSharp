@@ -1,0 +1,7 @@
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\File\SeqNRand\SeqNRand\bin\Debug\SeqNRand.exe.config
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\File\SeqNRand\SeqNRand\bin\Debug\SeqNRand.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\File\SeqNRand\SeqNRand\bin\Debug\SeqNRand.pdb
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\File\SeqNRand\SeqNRand\obj\Debug\SeqNRand.csproj.AssemblyReference.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\File\SeqNRand\SeqNRand\obj\Debug\SeqNRand.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\File\SeqNRand\SeqNRand\obj\Debug\SeqNRand.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\File\SeqNRand\SeqNRand\obj\Debug\SeqNRand.pdb
