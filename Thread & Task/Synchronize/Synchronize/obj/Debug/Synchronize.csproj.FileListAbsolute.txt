@@ -1,0 +1,6 @@
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\Synchronize\Synchronize\bin\Debug\Synchronize.exe.config
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\Synchronize\Synchronize\bin\Debug\Synchronize.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\Synchronize\Synchronize\bin\Debug\Synchronize.pdb
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\Synchronize\Synchronize\obj\Debug\Synchronize.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\Synchronize\Synchronize\obj\Debug\Synchronize.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\Synchronize\Synchronize\obj\Debug\Synchronize.pdb

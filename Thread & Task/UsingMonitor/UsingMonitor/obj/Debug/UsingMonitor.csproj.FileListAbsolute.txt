@@ -1,0 +1,6 @@
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\UsingMonitor\UsingMonitor\bin\Debug\UsingMonitor.exe.config
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\UsingMonitor\UsingMonitor\bin\Debug\UsingMonitor.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\UsingMonitor\UsingMonitor\bin\Debug\UsingMonitor.pdb
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\UsingMonitor\UsingMonitor\obj\Debug\UsingMonitor.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\UsingMonitor\UsingMonitor\obj\Debug\UsingMonitor.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\UsingMonitor\UsingMonitor\obj\Debug\UsingMonitor.pdb

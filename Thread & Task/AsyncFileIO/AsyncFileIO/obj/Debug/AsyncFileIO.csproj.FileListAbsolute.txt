@@ -1,0 +1,6 @@
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\AsyncFileIO\AsyncFileIO\bin\Debug\AsyncFileIO.exe.config
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\AsyncFileIO\AsyncFileIO\bin\Debug\AsyncFileIO.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\AsyncFileIO\AsyncFileIO\bin\Debug\AsyncFileIO.pdb
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\AsyncFileIO\AsyncFileIO\obj\Debug\AsyncFileIO.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\AsyncFileIO\AsyncFileIO\obj\Debug\AsyncFileIO.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\AsyncFileIO\AsyncFileIO\obj\Debug\AsyncFileIO.pdb

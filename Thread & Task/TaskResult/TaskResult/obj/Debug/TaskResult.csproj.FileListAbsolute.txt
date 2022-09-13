@@ -1,0 +1,7 @@
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\TaskResult\TaskResult\bin\Debug\TaskResult.exe.config
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\TaskResult\TaskResult\bin\Debug\TaskResult.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\TaskResult\TaskResult\bin\Debug\TaskResult.pdb
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\TaskResult\TaskResult\obj\Debug\TaskResult.csproj.AssemblyReference.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\TaskResult\TaskResult\obj\Debug\TaskResult.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\TaskResult\TaskResult\obj\Debug\TaskResult.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\TaskResult\TaskResult\obj\Debug\TaskResult.pdb

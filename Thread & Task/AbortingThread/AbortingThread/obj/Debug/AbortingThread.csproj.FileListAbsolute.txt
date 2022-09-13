@@ -1,0 +1,6 @@
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\AbortingThread\AbortingThread\bin\Debug\AbortingThread.exe.config
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\AbortingThread\AbortingThread\bin\Debug\AbortingThread.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\AbortingThread\AbortingThread\bin\Debug\AbortingThread.pdb
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\AbortingThread\AbortingThread\obj\Debug\AbortingThread.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\AbortingThread\AbortingThread\obj\Debug\AbortingThread.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\AbortingThread\AbortingThread\obj\Debug\AbortingThread.pdb

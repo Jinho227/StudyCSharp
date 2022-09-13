@@ -1,0 +1,6 @@
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\WaitPulse\WaitPulse\bin\Debug\WaitPulse.exe.config
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\WaitPulse\WaitPulse\bin\Debug\WaitPulse.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\WaitPulse\WaitPulse\bin\Debug\WaitPulse.pdb
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\WaitPulse\WaitPulse\obj\Debug\WaitPulse.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\WaitPulse\WaitPulse\obj\Debug\WaitPulse.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\WaitPulse\WaitPulse\obj\Debug\WaitPulse.pdb

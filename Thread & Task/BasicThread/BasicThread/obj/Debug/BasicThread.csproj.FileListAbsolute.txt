@@ -1,0 +1,7 @@
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\BasicThread\BasicThread\bin\Debug\BasicThread.exe.config
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\BasicThread\BasicThread\bin\Debug\BasicThread.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\BasicThread\BasicThread\bin\Debug\BasicThread.pdb
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\BasicThread\BasicThread\obj\Debug\BasicThread.csproj.AssemblyReference.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\BasicThread\BasicThread\obj\Debug\BasicThread.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\BasicThread\BasicThread\obj\Debug\BasicThread.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\BasicThread\BasicThread\obj\Debug\BasicThread.pdb

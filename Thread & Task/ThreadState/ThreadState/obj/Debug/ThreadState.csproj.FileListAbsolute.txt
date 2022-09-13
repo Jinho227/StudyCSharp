@@ -1,0 +1,6 @@
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\ThreadState\ThreadState\bin\Debug\ThreadState.exe.config
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\ThreadState\ThreadState\bin\Debug\ThreadState.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\ThreadState\ThreadState\bin\Debug\ThreadState.pdb
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\ThreadState\ThreadState\obj\Debug\ThreadState.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\ThreadState\ThreadState\obj\Debug\ThreadState.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\ThreadState\ThreadState\obj\Debug\ThreadState.pdb

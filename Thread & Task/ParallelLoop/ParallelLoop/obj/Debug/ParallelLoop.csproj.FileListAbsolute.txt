@@ -1,0 +1,6 @@
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\ParallelLoop\ParallelLoop\bin\Debug\ParallelLoop.exe.config
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\ParallelLoop\ParallelLoop\bin\Debug\ParallelLoop.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\ParallelLoop\ParallelLoop\bin\Debug\ParallelLoop.pdb
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\ParallelLoop\ParallelLoop\obj\Debug\ParallelLoop.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\ParallelLoop\ParallelLoop\obj\Debug\ParallelLoop.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\ParallelLoop\ParallelLoop\obj\Debug\ParallelLoop.pdb

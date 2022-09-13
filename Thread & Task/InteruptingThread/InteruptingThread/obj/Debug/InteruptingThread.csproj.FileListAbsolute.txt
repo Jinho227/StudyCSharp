@@ -1,0 +1,7 @@
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\InteruptingThread\InteruptingThread\bin\Debug\InteruptingThread.exe.config
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\InteruptingThread\InteruptingThread\bin\Debug\InteruptingThread.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\InteruptingThread\InteruptingThread\bin\Debug\InteruptingThread.pdb
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\InteruptingThread\InteruptingThread\obj\Debug\InteruptingThread.csproj.AssemblyReference.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\InteruptingThread\InteruptingThread\obj\Debug\InteruptingThread.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\InteruptingThread\InteruptingThread\obj\Debug\InteruptingThread.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Thread & Task\InteruptingThread\InteruptingThread\obj\Debug\InteruptingThread.pdb
