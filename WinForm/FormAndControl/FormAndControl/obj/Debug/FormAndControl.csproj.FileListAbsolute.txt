@@ -1,0 +1,6 @@
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\FormAndControl\FormAndControl\bin\Debug\FormAndControl.exe.config
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\FormAndControl\FormAndControl\bin\Debug\FormAndControl.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\FormAndControl\FormAndControl\bin\Debug\FormAndControl.pdb
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\FormAndControl\FormAndControl\obj\Debug\FormAndControl.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\FormAndControl\FormAndControl\obj\Debug\FormAndControl.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\FormAndControl\FormAndControl\obj\Debug\FormAndControl.pdb

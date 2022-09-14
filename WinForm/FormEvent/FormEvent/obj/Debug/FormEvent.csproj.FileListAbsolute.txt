@@ -1,0 +1,6 @@
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\FormEvent\FormEvent\bin\Debug\FormEvent.exe.config
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\FormEvent\FormEvent\bin\Debug\FormEvent.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\FormEvent\FormEvent\bin\Debug\FormEvent.pdb
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\FormEvent\FormEvent\obj\Debug\FormEvent.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\FormEvent\FormEvent\obj\Debug\FormEvent.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\FormEvent\FormEvent\obj\Debug\FormEvent.pdb

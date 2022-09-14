@@ -1,0 +1,7 @@
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\UsingApplication\UsingApplication\bin\Debug\UsingApplication.exe.config
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\UsingApplication\UsingApplication\bin\Debug\UsingApplication.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\UsingApplication\UsingApplication\bin\Debug\UsingApplication.pdb
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\UsingApplication\UsingApplication\obj\Debug\UsingApplication.csproj.AssemblyReference.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\UsingApplication\UsingApplication\obj\Debug\UsingApplication.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\UsingApplication\UsingApplication\obj\Debug\UsingApplication.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\UsingApplication\UsingApplication\obj\Debug\UsingApplication.pdb

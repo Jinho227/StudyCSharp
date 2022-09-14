@@ -1,0 +1,6 @@
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\FormStyle\FormStyle\bin\Debug\FormStyle.exe.config
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\FormStyle\FormStyle\bin\Debug\FormStyle.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\FormStyle\FormStyle\bin\Debug\FormStyle.pdb
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\FormStyle\FormStyle\obj\Debug\FormStyle.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\FormStyle\FormStyle\obj\Debug\FormStyle.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\FormStyle\FormStyle\obj\Debug\FormStyle.pdb

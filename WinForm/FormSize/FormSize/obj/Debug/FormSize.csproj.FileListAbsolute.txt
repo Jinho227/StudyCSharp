@@ -1,0 +1,6 @@
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\FormSize\FormSize\bin\Debug\FormSize.exe.config
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\FormSize\FormSize\bin\Debug\FormSize.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\FormSize\FormSize\bin\Debug\FormSize.pdb
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\FormSize\FormSize\obj\Debug\FormSize.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\FormSize\FormSize\obj\Debug\FormSize.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\FormSize\FormSize\obj\Debug\FormSize.pdb

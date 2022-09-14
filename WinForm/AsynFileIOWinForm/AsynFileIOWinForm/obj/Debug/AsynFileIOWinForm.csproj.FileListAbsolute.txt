@@ -1,0 +1,10 @@
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\AsynFileIOWinForm\AsynFileIOWinForm\bin\Debug\AsynFileIOWinForm.exe.config
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\AsynFileIOWinForm\AsynFileIOWinForm\bin\Debug\AsynFileIOWinForm.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\AsynFileIOWinForm\AsynFileIOWinForm\bin\Debug\AsynFileIOWinForm.pdb
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\AsynFileIOWinForm\AsynFileIOWinForm\obj\Debug\AsynFileIOWinForm.csproj.AssemblyReference.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\AsynFileIOWinForm\AsynFileIOWinForm\obj\Debug\AsynFileIOWinForm.MainForm.resources
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\AsynFileIOWinForm\AsynFileIOWinForm\obj\Debug\AsynFileIOWinForm.Properties.Resources.resources
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\AsynFileIOWinForm\AsynFileIOWinForm\obj\Debug\AsynFileIOWinForm.csproj.GenerateResource.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\AsynFileIOWinForm\AsynFileIOWinForm\obj\Debug\AsynFileIOWinForm.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\AsynFileIOWinForm\AsynFileIOWinForm\obj\Debug\AsynFileIOWinForm.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\AsynFileIOWinForm\AsynFileIOWinForm\obj\Debug\AsynFileIOWinForm.pdb

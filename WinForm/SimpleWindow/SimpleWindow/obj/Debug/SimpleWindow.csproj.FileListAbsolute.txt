@@ -1,0 +1,7 @@
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\SimpleWindow\SimpleWindow\bin\Debug\SimpleWindow.exe.config
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\SimpleWindow\SimpleWindow\bin\Debug\SimpleWindow.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\SimpleWindow\SimpleWindow\bin\Debug\SimpleWindow.pdb
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\SimpleWindow\SimpleWindow\obj\Debug\SimpleWindow.csproj.AssemblyReference.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\SimpleWindow\SimpleWindow\obj\Debug\SimpleWindow.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\SimpleWindow\SimpleWindow\obj\Debug\SimpleWindow.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\SimpleWindow\SimpleWindow\obj\Debug\SimpleWindow.pdb

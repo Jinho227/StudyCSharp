@@ -1,0 +1,7 @@
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\FormBackground\FormBackground\bin\Debug\FormBackground.exe.config
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\FormBackground\FormBackground\bin\Debug\FormBackground.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\FormBackground\FormBackground\bin\Debug\FormBackground.pdb
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\FormBackground\FormBackground\obj\Debug\FormBackground.csproj.AssemblyReference.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\FormBackground\FormBackground\obj\Debug\FormBackground.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\FormBackground\FormBackground\obj\Debug\FormBackground.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\FormBackground\FormBackground\obj\Debug\FormBackground.pdb

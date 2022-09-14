@@ -1,0 +1,6 @@
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\MessageFilter\MessageFilter\bin\Debug\MessageFilter.exe.config
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\MessageFilter\MessageFilter\bin\Debug\MessageFilter.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\MessageFilter\MessageFilter\bin\Debug\MessageFilter.pdb
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\MessageFilter\MessageFilter\obj\Debug\MessageFilter.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\MessageFilter\MessageFilter\obj\Debug\MessageFilter.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\WinForm\MessageFilter\MessageFilter\obj\Debug\MessageFilter.pdb
