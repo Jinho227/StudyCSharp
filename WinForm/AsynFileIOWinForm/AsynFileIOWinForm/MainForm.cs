@@ -88,7 +88,7 @@ namespace AsynFileIOWinForm
             SaveFileDialog dlg = new SaveFileDialog();
             if (dlg.ShowDialog() == System.Windows.Forms.DialogResult.OK)
             {
-                txtSource.Text = dlg.FileName;
+                txtTarget.Text = dlg.FileName;
             }
         }
 
