@@ -1,0 +1,7 @@
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Network\EchoServer\EchoServer\bin\Debug\EchoServer.exe.config
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Network\EchoServer\EchoServer\bin\Debug\EchoServer.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Network\EchoServer\EchoServer\bin\Debug\EchoServer.pdb
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Network\EchoServer\EchoServer\obj\Debug\EchoServer.csproj.AssemblyReference.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Network\EchoServer\EchoServer\obj\Debug\EchoServer.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Network\EchoServer\EchoServer\obj\Debug\EchoServer.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Network\EchoServer\EchoServer\obj\Debug\EchoServer.pdb
