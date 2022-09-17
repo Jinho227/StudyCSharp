@@ -1,0 +1,10 @@
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Network\FileSender\FileSender\bin\Debug\FileSender.exe.config
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Network\FileSender\FileSender\bin\Debug\FileSender.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Network\FileSender\FileSender\bin\Debug\FileSender.pdb
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Network\FileSender\FileSender\bin\Debug\FUP.dll
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Network\FileSender\FileSender\bin\Debug\FUP.pdb
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Network\FileSender\FileSender\obj\Debug\FileSender.csproj.AssemblyReference.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Network\FileSender\FileSender\obj\Debug\FileSender.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Network\FileSender\FileSender\obj\Debug\FileSender.csproj.CopyComplete
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Network\FileSender\FileSender\obj\Debug\FileSender.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Network\FileSender\FileSender\obj\Debug\FileSender.pdb

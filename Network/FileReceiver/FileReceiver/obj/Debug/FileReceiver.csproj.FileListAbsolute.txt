@@ -1,0 +1,10 @@
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Network\FileReceiver\FileReceiver\bin\Debug\FileReceiver.exe.config
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Network\FileReceiver\FileReceiver\bin\Debug\FileReceiver.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Network\FileReceiver\FileReceiver\bin\Debug\FileReceiver.pdb
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Network\FileReceiver\FileReceiver\bin\Debug\FUP.dll
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Network\FileReceiver\FileReceiver\bin\Debug\FUP.pdb
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Network\FileReceiver\FileReceiver\obj\Debug\FileReceiver.csproj.AssemblyReference.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Network\FileReceiver\FileReceiver\obj\Debug\FileReceiver.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Network\FileReceiver\FileReceiver\obj\Debug\FileReceiver.csproj.CopyComplete
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Network\FileReceiver\FileReceiver\obj\Debug\FileReceiver.exe
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Network\FileReceiver\FileReceiver\obj\Debug\FileReceiver.pdb

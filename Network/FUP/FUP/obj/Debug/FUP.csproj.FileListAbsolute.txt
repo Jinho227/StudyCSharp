@@ -1,0 +1,6 @@
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Network\FUP\FUP\bin\Debug\FUP.dll
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Network\FUP\FUP\bin\Debug\FUP.pdb
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Network\FUP\FUP\obj\Debug\FUP.csproj.AssemblyReference.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Network\FUP\FUP\obj\Debug\FUP.csproj.CoreCompileInputs.cache
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Network\FUP\FUP\obj\Debug\FUP.dll
+C:\Users\qnsdm\git\StudyCSharp\StudyCSharp\Network\FUP\FUP\obj\Debug\FUP.pdb
